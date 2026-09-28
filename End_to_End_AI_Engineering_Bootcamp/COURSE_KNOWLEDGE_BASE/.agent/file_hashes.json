@@ -1,0 +1,202 @@
+{
+  "ai-engineering-bootcamp-cohort-4-main.zip": {
+    "md5": "73dd2b1fb1334fe7066bcf76b206dfe6",
+    "size_bytes": 348606
+  },
+  "ai-engineering-bootcamp-cohort-4-sprint-0.zip": {
+    "md5": "abdba33815ddc3350f171e1b0db23e8c",
+    "size_bytes": 240280
+  },
+  "ai-engineering-bootcamp-cohort-4-sprint-1.zip": {
+    "md5": "7035279533e9c183db4baa8436d19c5b",
+    "size_bytes": 287011
+  },
+  "ai-engineering-bootcamp-cohort-4-sprint-2.zip": {
+    "md5": "d2d4fcbf937d0c1cd1b465a6c492ac2e",
+    "size_bytes": 291076
+  },
+  "ai-engineering-bootcamp-cohort-4-sprint-3.zip": {
+    "md5": "477ed72f11e513e4100ca6e95d05e96e",
+    "size_bytes": 349558
+  },
+  "End-to-end AI Engineering bootcamp Prep.pdf": {
+    "md5": "c753de22fab1ad9f18319d5d4c5e7480",
+    "size_bytes": 20144115
+  },
+  "Setting up your development environment..html": {
+    "md5": "50b87a7c2296b595391b86204a257ebb",
+    "size_bytes": 2533280
+  },
+  "Sprint-0-info-review.pdf": {
+    "md5": "6841d5267a5782601519e93749159717",
+    "size_bytes": 43595162
+  },
+  "Sprint-1-info-review.pdf": {
+    "md5": "64477e8d6f7318041bd5c7ffb0e30b73",
+    "size_bytes": 75173528
+  },
+  "Sprint-2-info-review.pdf": {
+    "md5": "5b27a51197a550bff8bbfc586c9e99f2",
+    "size_bytes": 51037634
+  },
+  "Sprint-3-info-review.pdf": {
+    "md5": "908832584e8ab23b5317851e73c6c767",
+    "size_bytes": 29956560
+  },
+  "Sprint-4-info-review.pdf": {
+    "md5": "b27cbdf976168ab22583c30f24b4ba30",
+    "size_bytes": 46892860
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html": {
+    "md5": "59431371ac6860f0b3a78c1e256bc6f0",
+    "size_bytes": 21168346
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html": {
+    "md5": "e4cc704270fc43bdb1386e4c1360ce6d",
+    "size_bytes": 1988549
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/003 What is RAG.html": {
+    "md5": "d9dc87a7557a701f99014d11e43801ec",
+    "size_bytes": 2629728
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/004 Embedding models & vector DB integration.html": {
+    "md5": "cdb6af961317b0e34fc8f2e17927688e",
+    "size_bytes": 1153486
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/005 Implementing basic observability foundations.html": {
+    "md5": "7bf8ce76e12ee86f7647ed3f3ed37e26",
+    "size_bytes": 1026905
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/006 Evaluating basic end-to-end retrieval and generation.html": {
+    "md5": "164065b9ff03e765689fc08eafa1a1c0",
+    "size_bytes": 1677406
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/007 Hands-On Section.html": {
+    "md5": "76c7ae5868d1aa58d4be37a0dfd56869",
+    "size_bytes": 4676889
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/008 Amazon Electronics Category Dataset Overview.html": {
+    "md5": "bafbf60dd1b3b6c855b85d745e149951",
+    "size_bytes": 1318944
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/009 [OPTIONAL] AI Project Canvas.html": {
+    "md5": "0b95b5ef4d0ce50394dbeb5c3fe04b8f",
+    "size_bytes": 1608074
+  },
+  "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/010 [OPTIONAL] Success metrics & evaluation frameworks.html": {
+    "md5": "9a63b5042ed17edadb8125a4b207210b",
+    "size_bytes": 5146582
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html": {
+    "md5": "329df7f7956810d62137e53805d98c59",
+    "size_bytes": 5606548
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/002 Pydantic and structured outputs.html": {
+    "md5": "8111bbf839c379961463ccfc580d7406",
+    "size_bytes": 1347467
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/003 Chunking strategies and Contextual embeddings.html": {
+    "md5": "7f2af57aacc80fe86ed140dcf6eddbec",
+    "size_bytes": 12931882
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/004 Context Engineering and prompt management.html": {
+    "md5": "4e70682e42de968e3255003e01e0aa02",
+    "size_bytes": 1346022
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/005 Re-Ranking and Hybrid Retrieval for better relevance.html": {
+    "md5": "c93fa6eaca9d6fea1dbd048c93a8edcd",
+    "size_bytes": 600027
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/006 (Optional) Automated prompt tuning.html": {
+    "md5": "42d84981bf36bba07ef8bd7172594a44",
+    "size_bytes": 592883
+  },
+  "Sprint 1 \u2013 Retrieval Quality & Context Engineering/007 Hands-on Section.html": {
+    "md5": "619bde9d6ccba4674eb8b909a2e16db5",
+    "size_bytes": 9243228
+  },
+  "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html": {
+    "md5": "5a9cc0539722325e78923c8a512a058b",
+    "size_bytes": 1852536
+  },
+  "Sprint 2 \u2013 Agents & Agentic Systems/002 Tool use in agents.html": {
+    "md5": "ccac07829343310ba8ebba3a05fd062a",
+    "size_bytes": 1500864
+  },
+  "Sprint 2 \u2013 Agents & Agentic Systems/003 Patterns for building Agentic Systems.html": {
+    "md5": "e046615f744c33ebceaa674a98301789",
+    "size_bytes": 1120957
+  },
+  "Sprint 2 \u2013 Agents & Agentic Systems/004 Memory in agent systems.html": {
+    "md5": "09b3f33c80b9cc2d14c4140dab8992ed",
+    "size_bytes": 2243885
+  },
+  "Sprint 2 \u2013 Agents & Agentic Systems/005 Reflection & Agent evaluation Frameworks.html": {
+    "md5": "53702aa2937678a0797aaabb7b05c94d",
+    "size_bytes": 2169280
+  },
+  "Sprint 2 \u2013 Agents & Agentic Systems/006 Hands-on Section.html": {
+    "md5": "492a2c6b89ef5e0eb4642b118aa6975f",
+    "size_bytes": 7413154
+  },
+  "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html": {
+    "md5": "8b4a7640d3ef2c9f4bfa9665a45e4107",
+    "size_bytes": 1115265
+  },
+  "Sprint 3 \u2013 Moving From Basic To Agentic RAG/002 Human Feedback and Fault Tolerance in Agentic Systems.html": {
+    "md5": "dd8efdaed2b850adac26090facbc9dcb",
+    "size_bytes": 608830
+  },
+  "Sprint 3 \u2013 Moving From Basic To Agentic RAG/003 Human in the loop (HITL).html": {
+    "md5": "6a457c9f98729acc2327bca8091c0341",
+    "size_bytes": 612262
+  },
+  "Sprint 3 \u2013 Moving From Basic To Agentic RAG/004 Model Context Protocol (MCP).html": {
+    "md5": "6648be99273c2b6776ab54c44ffc1023",
+    "size_bytes": 1283163
+  },
+  "Sprint 3 \u2013 Moving From Basic To Agentic RAG/005 Hands-on Section.html": {
+    "md5": "1eabfaa40ae214fd1e1e70e5f189d5d1",
+    "size_bytes": 8092122
+  },
+  "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html": {
+    "md5": "29b02b6eb227aff517ecc0b68d65be3c",
+    "size_bytes": 608032
+  },
+  "Sprint 4 \u2013 Multi-Agent Systems/02 Planning, delegation, and task routing among agents.html": {
+    "md5": "b0fb647baf474aea778961efe5dd9e55",
+    "size_bytes": 1354557
+  },
+  "Sprint 4 \u2013 Multi-Agent Systems/03 Synchronization and memory sharing.html": {
+    "md5": "a5275adf43a6b7ba4f0ef4a65f713cb4",
+    "size_bytes": 603144
+  },
+  "Sprint 4 \u2013 Multi-Agent Systems/04 Agent-to-agent communication protocols (A2A).html": {
+    "md5": "33e65b034c6ad8a8048f0ddc27274872",
+    "size_bytes": 1358997
+  },
+  "Sprint 4 \u2013 Multi-Agent Systems/05 Hands-on Section.html": {
+    "md5": "3be7a71fdaafbfe31f9779c787f47650",
+    "size_bytes": 11916546
+  },
+  "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html": {
+    "md5": "a77fac816f330b358384b91658445a04",
+    "size_bytes": 1172634
+  },
+  "Sprint 5 \u2013 Deployment, Optimization and Reliability/02 Managing latency and cost for AI applications.html": {
+    "md5": "d5dcb06c2af8a54b0f19fda6e846293a",
+    "size_bytes": 1568890
+  },
+  "Sprint 5 \u2013 Deployment, Optimization and Reliability/03 Securing AI systems.html": {
+    "md5": "89bf8a54ca4f79195c3775026da8da34",
+    "size_bytes": 603879
+  },
+  "Sprint 5 \u2013 Deployment, Optimization and Reliability/04 CI CD for AI applications.html": {
+    "md5": "e940d6cbf4de9d109a57367ef55c54f6",
+    "size_bytes": 602135
+  },
+  "Sprint 5 \u2013 Deployment, Optimization and Reliability/05 Hands-on Section.html": {
+    "md5": "a416cd787ad7dad8410207046900d067",
+    "size_bytes": 11018266
+  }
+}

@@ -1,0 +1,2191 @@
+{
+  "001 Welcome Lecture.mp4": {
+    "type": "mp4",
+    "size_mb": 304.17
+  },
+  "002 [Build] Introduction.html": {
+    "type": "html",
+    "title": "[Build] Introduction",
+    "text_len": 925,
+    "text_sample": "📄\n[Build] Introduction\nLesson 1 • COMPLETED SUN. JUL 27\nWelcome!\nHave you had a chance to watch the welcome lecture and go through the\npre-course material\n?\nIf not, we highly recommend doing that first!\n-----------------\nThis module is designed to help you with two things:\nAssignment Setup:\nComplete the necessary setup for your assignments (whether you're using low-code or full-code solutions).\nDa",
+    "links": []
+  },
+  "003 [Build] Environment Setup for Assignments.html": {
+    "type": "html",
+    "title": "[Build] Environment Setup for Assignments",
+    "text_len": 12181,
+    "text_sample": "💻\n[Build] Environment Setup for Assignments\nLesson 2 • COMPLETED SUN. JUL 27\nFirst, follow the steps below to set up your environment.\nOnce you're done, watch one of next two videos (Lesson 3/4) to explore some starter examples and make sure everything is working as expected. Use the Appendix section to find and resolve common issues\nThe setup process consists of 4 parts:\nSet Up Your Python Enviro",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://docs.astral.sh/uv/"
+      },
+      {
+        "text": "OpenAI's API is billed based on token usage,",
+        "url": "https://openai.com/api/pricing/"
+      },
+      {
+        "text": "OpenAI's platform",
+        "url": "https://platform.openai.com/"
+      },
+      {
+        "text": "API keys page",
+        "url": "https://platform.openai.com/api-keys"
+      },
+      {
+        "text": "OpenAI account settings",
+        "url": "https://platform.openai.com/account/billing/limits"
+      },
+      {
+        "text": "OpenAI's usage page",
+        "url": "https://platform.openai.com/usage"
+      },
+      {
+        "text": "YouTube Tutorial",
+        "url": "https://www.youtube.com/watch?v=OB99E7Y1cMA"
+      },
+      {
+        "text": "OpenAI API Documentation",
+        "url": "https://platform.openai.com/docs/introduction"
+      },
+      {
+        "text": "API Keys Guide",
+        "url": "https://platform.openai.com/docs/api-reference/authentication"
+      },
+      {
+        "text": "Best Practices",
+        "url": "https://platform.openai.com/docs/guides/safety-best-practices"
+      },
+      {
+        "text": "https://docs.langflow.org/starter-projects-basic-prompting",
+        "url": "https://docs.langflow.org/starter-projects-basic-prompting"
+      },
+      {
+        "text": "https://python.langchain.com/docs/tutorials/llm_chain/",
+        "url": "https://python.langchain.com/docs/tutorials/llm_chain/"
+      },
+      {
+        "text": "NotebookLM instance",
+        "url": "https://notebooklm.google.com/notebook/941996fc-c025-4da7-b3f1-854675e742a4?_gl=1*158fi4*_up*MQ..*_ga*MTA2MjAxMjA3Ny4xNzQ3ODcxOTY3*_ga_W0LDH41ZCB*czE3NDkzNDkyNjQkbzUkZzEkdDE3NDkzNDkyNjQkajYwJGwwJGgw&gclid=Cj0KCQjwxo_CBhDbARIsADWpDH5LcEAnhL4-uAiyJggS-sv8kQe7Hgph9TOaYd8ZrKzO5cuHaoiLA9gaAkwHEALw_wcB&gbraid=0AAAAA-fwSsdLbO8uALSdGTBU9DfRl_HIG"
+      },
+      {
+        "text": "following link",
+        "url": "https://gist.github.com/iandanforth/f3ac42b0963bcbfdf56bb446e9f40a33"
+      }
+    ]
+  },
+  "004 [Build] LangChain Setup and Demo.html": {
+    "type": "html",
+    "title": "[Build] LangChain Setup and Demo",
+    "text_len": 2007,
+    "text_sample": "🎥\n[Build] LangChain Setup and Demo\nLesson 3 • COMPLETED SUN. JUL 27\nQuick heads-up before you start watching:\nTo get the best video quality, click the three dots at the bottom right corner of the video and select\n1080p\n.\n(Standard YouTube etiquette — makes a big difference, so do that before you hit play.)\nWatch the below video in combination with setup guide in lesson 2.\nThe Jupyter notebook and ",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "http://localhost:8888/tree",
+        "url": "http://localhost:8888/tree"
+      },
+      {
+        "text": "NotebookLM instance",
+        "url": "https://notebooklm.google.com/notebook/941996fc-c025-4da7-b3f1-854675e742a4?_gl=1*158fi4*_up*MQ..*_ga*MTA2MjAxMjA3Ny4xNzQ3ODcxOTY3*_ga_W0LDH41ZCB*czE3NDkzNDkyNjQkbzUkZzEkdDE3NDkzNDkyNjQkajYwJGwwJGgw&gclid=Cj0KCQjwxo_CBhDbARIsADWpDH5LcEAnhL4-uAiyJggS-sv8kQe7Hgph9TOaYd8ZrKzO5cuHaoiLA9gaAkwHEALw_wcB&gbraid=0AAAAA-fwSsdLbO8uALSdGTBU9DfRl_HIG"
+      }
+    ]
+  },
+  "005 Longchain Setup and Demo.mp4": {
+    "type": "mp4",
+    "size_mb": 67.74
+  },
+  "006 [Build]LangFlow Setup and Demo.html": {
+    "type": "html",
+    "title": "[Build]LangFlow Setup and Demo",
+    "text_len": 564,
+    "text_sample": "🎥\n[Build]LangFlow Setup and Demo\nLesson 4 • COMPLETED FRI. AUG 22\nQuick heads-up before you start watching:\nTo get the best video quality, click the three dots at the bottom right corner of the video and select\n1080p\n.\n(Standard YouTube etiquette — makes a big difference, so do that before you hit play.)\nWatch this video in combination with setup guide\nhere\n. The slides used for this demo are avai",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "NotebookLM instance",
+        "url": "https://notebooklm.google.com/notebook/941996fc-c025-4da7-b3f1-854675e742a4?_gl=1*158fi4*_up*MQ..*_ga*MTA2MjAxMjA3Ny4xNzQ3ODcxOTY3*_ga_W0LDH41ZCB*czE3NDkzNDkyNjQkbzUkZzEkdDE3NDkzNDkyNjQkajYwJGwwJGgw&gclid=Cj0KCQjwxo_CBhDbARIsADWpDH5LcEAnhL4-uAiyJggS-sv8kQe7Hgph9TOaYd8ZrKzO5cuHaoiLA9gaAkwHEALw_wcB&gbraid=0AAAAA-fwSsdLbO8uALSdGTBU9DfRl_HIG"
+      }
+    ]
+  },
+  "007 LangFlow Setup and Demo.mp4": {
+    "type": "mp4",
+    "size_mb": 73.31
+  },
+  "008 [Grow] NotebookLM For Analysis.html": {
+    "type": "html",
+    "title": "[Grow] NotebookLM For Analysis",
+    "text_len": 2790,
+    "text_sample": "📄\n[Grow] NotebookLM For Analysis\nLesson 5 • COMPLETED FRI. AUG 22\nTime for Setup\n: No setup required if you already have a Google account. If not, it will take about 5-6 minutes to create one.\nExpertise Needed\n: No coding experience required.\nFree Version Available?\nYes\nNotebookLM\nis an AI-powered note-taking application developed by Google that helps users organize, summarize, and extract insight",
+    "links": [
+      {
+        "text": "NotebookLM website",
+        "url": "https://notebooklm.google.com/"
+      },
+      {
+        "text": "Watch here",
+        "url": "https://www.youtube.com/watch?v=UG0DP6nVnrc"
+      },
+      {
+        "text": "Watch here",
+        "url": "https://www.youtube.com/watch?v=9xjmvUS-UGU"
+      },
+      {
+        "text": "NotebookLM subreddit",
+        "url": "https://www.reddit.com/r/notebooklm/"
+      }
+    ]
+  },
+  "009 [Grow] AI Models & Agents When to Choose What.html": {
+    "type": "html",
+    "title": "[Grow] AI Models & Agents: When to Choose What?",
+    "text_len": 4463,
+    "text_sample": "📄\n[Grow] AI Models & Agents: When to Choose What?\nLesson 6 • COMPLETED FRI. AUG 22\nWhen you start incorporating AI models into your daily routine, you begin to notice patterns in their behavior that seem optimized for specific tasks. Of course, you can always refer to benchmarks like\nLM Arena\nfor model scores and leaderboards, but real-world usage and insights from online communities, like provide",
+    "links": [
+      {
+        "text": "LM Arena",
+        "url": "https://lmarena.ai/"
+      },
+      {
+        "text": "NotebookLM",
+        "url": "https://notebooklm.withgoogle.com/"
+      },
+      {
+        "text": "OpenAI",
+        "url": "https://openai.com/"
+      },
+      {
+        "text": "Deep Research Guide",
+        "url": "https://docs.google.com/document/d/1vLaEMu5jirQT5RK0cW8RUXNFQyszMQ-xrjxUZF2wOg4/edit?tab=t.0#heading=h.2y9eo2rdwxv2"
+      },
+      {
+        "text": "Cursor",
+        "url": "https://cursor.so/"
+      },
+      {
+        "text": "https://cursor.so/",
+        "url": "https://cursor.so/"
+      },
+      {
+        "text": "Claude.ai",
+        "url": "http://claude.ai/"
+      },
+      {
+        "text": "https://claude.ai/",
+        "url": "https://claude.ai/"
+      },
+      {
+        "text": "https://openai.com/",
+        "url": "https://openai.com/"
+      },
+      {
+        "text": "https://www.perplexity.ai/",
+        "url": "https://www.perplexity.ai/"
+      },
+      {
+        "text": "https://notebooklm.withgoogle.com/",
+        "url": "https://notebooklm.withgoogle.com/"
+      },
+      {
+        "text": "https://www.deepseek.com/",
+        "url": "https://www.deepseek.com/**"
+      },
+      {
+        "text": "https://blog.google/technology/ai/announcing-gemini/",
+        "url": "https://blog.google/technology/ai/announcing-gemini/"
+      }
+    ]
+  },
+  "010 [Build] Cursor AI For Coding Assistance.html": {
+    "type": "html",
+    "title": "[Build] Cursor AI For Coding Assistance",
+    "text_len": 3460,
+    "text_sample": "📄\n[Build] Cursor AI For Coding Assistance\nLesson 7 • COMPLETED FRI. AUG 22\nTime for Setup:\nInstallation takes 5–10 minutes (Download\nhere\n)\nExpertise Needed:\nSome coding experience is preferred—but even if you're a bit rusty, give it a try. It's truly one of our favorite tools.\nFree Version Available?\nYes\nCursor is an AI-powered IDE built on Visual Studio Code that truly transforms your coding exp",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.cursor.com/"
+      },
+      {
+        "text": "https://docs.cursor.com/",
+        "url": "https://docs.cursor.com/"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=9yS0dR0kP-s",
+        "url": "https://www.youtube.com/watch?v=9yS0dR0kP-s"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=DFqgVXVXPX0",
+        "url": "https://www.youtube.com/watch?v=DFqgVXVXPX0"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=msHbQfhS3p8",
+        "url": "https://www.youtube.com/watch?v=msHbQfhS3p8"
+      },
+      {
+        "text": "https://www.datacamp.com/tutorial/cursor-ai-code-editor",
+        "url": "https://www.datacamp.com/tutorial/cursor-ai-code-editor"
+      },
+      {
+        "text": "https://cursor.directory/",
+        "url": "https://cursor.directory/"
+      }
+    ]
+  },
+  "011 [Grow] Vercel v0 for Building Web Apps.html": {
+    "type": "html",
+    "title": "[Grow] Vercel v0 for Building Web Apps",
+    "text_len": 2698,
+    "text_sample": "📄\n[Grow] Vercel v0 for Building Web Apps\nLesson 8 • COMPLETED FRI. AUG 22\nTime for Setup:\nNo installation required—you can use it directly on the\nwebsite\n.\nExpertise Needed:\nSome coding experience can be helpful, but you can use it even if you don't have any coding background by sticking to simple use cases.\nFree Version Available?\nYes\nVercel v0\nis an AI-powered pair programmer that empowers anyon",
+    "links": [
+      {
+        "text": "website",
+        "url": "https://v0.dev/"
+      },
+      {
+        "text": "Vercel's VP of Product on How to Use v0 to Build Your Own Ideas (Step-by-Step Guide)",
+        "url": "https://www.youtube.com/watch?v=sCFS_U7d9Do"
+      },
+      {
+        "text": "Build a Full-Stack App in 7 Minutes with v0 (Figma to Code)",
+        "url": "https://www.youtube.com/watch?v=cyFVtaLy-bA&t=278s"
+      }
+    ]
+  },
+  "012 [Core] Lecture 1 Introduction to Generative AI & Agentic AI.mp4": {
+    "type": "mp4",
+    "size_mb": 171.1
+  },
+  "013 [Core] Lecture 1 Introduction to Generative AI & Agentic AI.html": {
+    "type": "html",
+    "title": "[Core] Lecture 1: Introduction to Generative AI & Agentic AI",
+    "text_len": 787,
+    "text_sample": "📹\n[Core] Lecture 1: Introduction to Generative AI & Agentic AI\nLesson 1 • COMPLETED THU. AUG 7\nQuick note\n: If you're new to AI, this lecture might feel a bit intimidating. Don’t worry if some of the terms aren’t clear yet—we’ll get into more applied stuff in the next session. This one’s just to set the stage. If you're already familiar with the basics, think of it as a quick refresher.\nWhat you'l",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.canva.com/design/DAGoUUTEpbs/NXxopOVFMSm1iZbCuNxj6g/view?utm_content=DAGoUUTEpbs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he4d79a534f"
+      }
+    ]
+  },
+  "014 [Core] Lecture 2 Designing AI Applications (Iterative Solution Design).mp4": {
+    "type": "mp4",
+    "size_mb": 137.4
+  },
+  "015 [Core] Lecture 2 Designing AI Applications (Iterative Solution Design).html": {
+    "type": "html",
+    "title": "[Core] Lecture 2: Designing AI Applications (Iterative Solution Design)",
+    "text_len": 1095,
+    "text_sample": "📹\n[Core] Lecture 2: Designing AI Applications (Iterative Solution Design)\nLesson 2 • COMPLETED THU. AUG 7\nWhat You'll Learn:\nHow to design AI solutions tailored for AI, including handling challenges like non-determinism.\nSee why data curation plays a critical role in successful AI applications.\nLearn how to approach solution design iteratively, refining based on real-world feedback.\nVideo:\nFind Le",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.canva.com/design/DAGoUc2S-yQ/leXWaQalpwbHf0TYrDSVcA/view?utm_content=DAGoUc2S-yQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h560440b0f0"
+      }
+    ]
+  },
+  "016 [Grow] Generative AI & Agentic AI Terms You Must Know.html": {
+    "type": "html",
+    "title": "[Grow] Generative AI & Agentic AI Terms You Must Know",
+    "text_len": 932,
+    "text_sample": "📄\n[Grow] Generative AI & Agentic AI Terms You Must Know\nLesson 3 • COMPLETED SAT. AUG 23\nQuick Note:\nDon’t worry if you don’t fully understand all the terms yet. This is just a fun glossary poster. You’ll know all of them in depth by the end of the course.\nPrevious\nComplete\nComplete this lesson\nNext\n📹\nLesson 1 · COMPLETED\n[Core] Lecture 1: Introduction to Generative AI & Agentic AI\n📹\nLesson 2 · CO",
+    "links": []
+  },
+  "017 [Grow] Enterprise AI Adoption Trends, ROI, and the Road Ahead.html": {
+    "type": "html",
+    "title": "[Grow] Enterprise AI Adoption: Trends, ROI, and the Road Ahead",
+    "text_len": 5022,
+    "text_sample": "📄\n[Grow] Enterprise AI Adoption: Trends, ROI, and the Road Ahead\nLesson 4 • COMPLETED SAT. AUG 23\nIntroduction\nGenerative AI (GenAI) and Agentic AI are no longer just an experimental technologies, enterprises are actively embedding it into their core business functions. The shift from hype to execution is evident as organizations move from pilots to full-scale deployments. With increasing investme",
+    "links": [
+      {
+        "text": "https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/",
+        "url": "https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/"
+      },
+      {
+        "text": "https://www.deloitte.com/ce/en/services/consulting/research/state-of-generative-ai-in-enterprise.html",
+        "url": "https://www.deloitte.com/ce/en/services/consulting/research/state-of-generative-ai-in-enterprise.html"
+      },
+      {
+        "text": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+        "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
+      },
+      {
+        "text": "https://www.zenml.io/llmops-database",
+        "url": "https://www.zenml.io/llmops-database"
+      },
+      {
+        "text": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "text": "https://aws.amazon.com/ai/generative-ai/use-cases/?awsm.page-customer-references=1",
+        "url": "https://aws.amazon.com/ai/generative-ai/use-cases/?awsm.page-customer-references=1"
+      }
+    ]
+  },
+  "018 [Grow] Understanding Deep Learning, Neural Networks & LLM Architecture.html": {
+    "type": "html",
+    "title": "[Grow] Understanding Deep Learning, Neural Networks & LLM Architecture",
+    "text_len": 2315,
+    "text_sample": "📄\n[Grow] Understanding Deep Learning, Neural Networks & LLM Architecture\nLesson 5 • COMPLETED SAT. AUG 23\nTo\ndeeply understand how LLMs work\n, you need to first understand\nneural networks and deep learning\n. And to grasp deep learning, you need a solid foundation in\nmachine learning\n.\nWhile this deep knowledge isn't necessary and is often overkill for most AI roles, it becomes essential if you're ",
+    "links": [
+      {
+        "text": "Andrew Ng’s Machine Learning Course",
+        "url": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "text": "Deep Learning Specialization on Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "text": "Stanford CS224N - NLP with Deep Learning",
+        "url": "http://web.stanford.edu/class/cs224n/"
+      },
+      {
+        "text": "Stanford CS25 - Transformers United",
+        "url": "https://web.stanford.edu/class/cs25/"
+      },
+      {
+        "text": "Building LLMs from the Ground Up: A 3-hour Coding Workshop",
+        "url": "https://www.youtube.com/watch?v=quh7z1q7-uc"
+      },
+      {
+        "text": "Illustrated Transformer",
+        "url": "https://jalammar.github.io/illustrated-transformer/"
+      },
+      {
+        "text": "LLMs: Training & Fine-Tuning",
+        "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI"
+      },
+      {
+        "text": "From HuggingFace",
+        "url": "https://huggingface.co/blog/rlhf"
+      }
+    ]
+  },
+  "019 [Grow] DeepSeek-R1 and Large Reasoning Models.html": {
+    "type": "html",
+    "title": "[Grow] DeepSeek-R1 and Large Reasoning Models",
+    "text_len": 7193,
+    "text_sample": "📄\n[Grow] DeepSeek-R1 and Large Reasoning Models\nLesson 6 • COMPLETED SAT. AUG 23\nIntroduction: What Are LRMs?\nLarge Reasoning Models (LRMs) represent the next step in the evolution of AI, moving beyond simple text generation into structured reasoning and decision-making. While Large Language Models (LLMs) are designed to predict text based on statistical patterns, LRMs aim to simulate a true reaso",
+    "links": [
+      {
+        "text": "The Illustrated DeepSeek-R1",
+        "url": "https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1"
+      },
+      {
+        "text": "Understanding Reasoning LLMs",
+        "url": "https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html"
+      }
+    ]
+  },
+  "020 [Grow] LLM Performance Benchmarks.html": {
+    "type": "html",
+    "title": "[Grow] LLM Performance Benchmarks",
+    "text_len": 5994,
+    "text_sample": "📄\n[Grow] LLM Performance Benchmarks\nLesson 7 • COMPLETED SAT. AUG 23\nWith the rapid growth of Large Language Models, benchmarking has become essential for measuring model performance, ensuring reliability, and facilitating fair comparisons. Benchmarks help developers understand how well a model performs across various tasks, from language understanding to reasoning, coding, and conversational abil",
+    "links": [
+      {
+        "text": "MMLU (Massive Multitask Language Understanding)",
+        "url": "https://github.com/hendrycks/test"
+      },
+      {
+        "text": "TruthfulQA",
+        "url": "https://github.com/sylinrl/TruthfulQA"
+      },
+      {
+        "text": "HellaSwag",
+        "url": "https://rowanzellers.com/hellaswag/"
+      },
+      {
+        "text": "BIG-Bench Hard (BBH)",
+        "url": "https://github.com/google/BIG-bench"
+      },
+      {
+        "text": "HumanEval",
+        "url": "https://github.com/openai/human-eval"
+      },
+      {
+        "text": "CodeXGLUE",
+        "url": "https://github.com/microsoft/CodeXGLUE"
+      },
+      {
+        "text": "Chatbot Arena",
+        "url": "https://lmarena.ai/"
+      },
+      {
+        "text": "MT Bench",
+        "url": "https://huggingface.co/spaces/lmsys/mt-bench"
+      }
+    ]
+  },
+  "021 [Grow] Demo Day Video From Cohort 1 & Cohort 2.html": {
+    "type": "html",
+    "title": "[Grow] Demo Day Video From Cohort 1 & Cohort 2",
+    "text_len": 845,
+    "text_sample": "📄\n[Grow] Demo Day Video From Cohort 1 & Cohort 2\nLesson 8 • COMPLETED SAT. AUG 23\nCohort 1\nCapstone List\nDemo Day\nCohort 2\nCapstone List\nDemo Day Session 1\nDemo Day Session 2\nPrevious\nComplete\nComplete this lesson\n📹\nLesson 1 · COMPLETED\n[Core] Lecture 1: Introduction to Generative AI & Agentic AI\n📹\nLesson 2 · COMPLETED\n[Core] Lecture 2: Designing AI Applications (Iterative Solution Design)\n📄\nLesso",
+    "links": [
+      {
+        "text": "Capstone List",
+        "url": "https://areganti.notion.site/Capstone-Projects-Problem-First-AI-1e0c91fa32368011b935e00a35d9bceb"
+      },
+      {
+        "text": "Capstone List",
+        "url": "https://areganti.notion.site/Demo-Day-Building-Agentic-AI-Applications-with-a-Problem-First-Approach-June-2025-21fc91fa3236804ca4d9d482ee56568a"
+      }
+    ]
+  },
+  "022 Week 1 Homework Office Hours - July 30.docx": {
+    "type": "docx",
+    "text_len": 7662,
+    "text_sample": "Week 1 Homework Office Hours - July 30These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: How can you determine which components to use when building a flow? Is there a specification that provides information on the components required for an agent "
+  },
+  "023 Week 1 Homework Office Hours.mp4": {
+    "type": "mp4",
+    "size_mb": 210.08
+  },
+  "024 Week 1 Content Office Hours.mp4": {
+    "type": "mp4",
+    "size_mb": 212.34
+  },
+  "025 Week 1 Content Office Hours - July 31.docx": {
+    "type": "docx",
+    "text_len": 9134,
+    "text_sample": "Week 1 Content Office Hours - July 31These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: In the Aiden example, instead of more data, could the routing agent be improved by some other means like fine-tuning, evaluation, or improved models? A: Start w"
+  },
+  "026 Week 1 Content Office Hours - Aug 2.mp4": {
+    "type": "mp4",
+    "size_mb": 218.07
+  },
+  "027 Week 1 Content Office Hours - August 2.docx": {
+    "type": "docx",
+    "text_len": 8324,
+    "text_sample": "Week 1 Content Office Hours - August 2These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Office Hour Session SummaryPart 1: Q&A FormatQ: What prerequisites should an enterprise have for successful AI projects and what factors (siloed efforts, scattered data) could lead"
+  },
+  "028 Week 1 Homework Office Hours - Aug 2.mp4": {
+    "type": "mp4",
+    "size_mb": 173.12
+  },
+  "029 Week 1 Homework Office Hours - August 2.docx": {
+    "type": "docx",
+    "text_len": 7250,
+    "text_sample": "Week 1 Homework Office Hours - August 2These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Office Hours Session SummaryPart 1: Q&A FormatQ: How can I see trace of what tools were called in Langflow? A: This question was deferred to later in the course. The agent compone"
+  },
+  "030 Chai & AI Session (Not Recorded).mp4": {
+    "type": "mp4",
+    "size_mb": 210.19
+  },
+  "031 [Core] Lecture 3 Prompt Engineering in 2025.html": {
+    "type": "html",
+    "title": "[Core] Lecture 3: Prompt Engineering in 2025",
+    "text_len": 683,
+    "text_sample": "📹\n[Core] Lecture 3: Prompt Engineering in 2025\nLesson 1 • COMPLETED SUN. AUG 10\nWhat you’ll learn:\nHow prompt engineering has evolved over the last 3 years, from skill-based methods, to automated optimization, to reasoning models that demand a completely different approach\nHow to build workflow agents using prompting, with tool-calling layered in when needed\nA breakdown of real agents built on Zap",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.canva.com/design/DAGosETX17k/uaZhBToUArMTGDOmJCIx2w/view?utm_content=DAGosETX17k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e96cc3f6b"
+      }
+    ]
+  },
+  "032 [Core] Lecture 3 Prompt Engineering in 2025.mp4": {
+    "type": "mp4",
+    "size_mb": 196.48
+  },
+  "033 [Core] Lecture 4 Building Workflow Agents For The Enterprise.html": {
+    "type": "html",
+    "title": "[Core] Lecture 4: Building Workflow Agents For The Enterprise",
+    "text_len": 1193,
+    "text_sample": "📹\n[Core] Lecture 4: Building Workflow Agents For The Enterprise\nLesson 2 • COMPLETED SUN. AUG 10\nWhat you’ll learn:\nWhen it actually makes sense to build workflow agents for real use-cases, and a simple framework to decide\nKey considerations before you launch: guardrails, cost, and evaluations\nTypes of evaluations to use, when they matter, and how to apply them\nPros and cons of using LLM judges\nVi",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.canva.com/design/DAGo44zNruc/geNXs6giP4l7HoiAWbTabA/view?utm_content=DAGo44zNruc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h343ac51335"
+      }
+    ]
+  },
+  "034 [Core] Lecture 4 Building Workflow Agents For The Enterprise.mp4": {
+    "type": "mp4",
+    "size_mb": 109.5
+  },
+  "035 [Grow] Skill Based Prompting  A Deep Dive.html": {
+    "type": "html",
+    "title": "[Grow] Skill Based Prompting : A Deep Dive",
+    "text_len": 7348,
+    "text_sample": "📄\n[Grow] Skill Based Prompting : A Deep Dive\nLesson 3\nLevel 1: In-Context Learning\nIn-Context Learning involves teaching large LLMs or generative AI models through prompts rather than traditional training methods. The idea is to provide the model with instructions, examples, and context directly in the prompt to guide its output.\nZero-Shot:\nAsk the LLM to answer without providing examples. For ins",
+    "links": [
+      {
+        "text": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+        "url": "https://arxiv.org/abs/2201.11903"
+      },
+      {
+        "text": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+        "url": "https://arxiv.org/abs/2305.10601"
+      },
+      {
+        "text": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "url": "https://arxiv.org/abs/2210.03629"
+      },
+      {
+        "text": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ReAct_pattern"
+      },
+      {
+        "text": "Active Prompting with Chain-of-Thought for Large Language Models",
+        "url": "https://aclanthology.org/2024.acl-long.73/"
+      },
+      {
+        "text": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+        "url": "https://arxiv.org/abs/2205.10625"
+      },
+      {
+        "text": "ecomposed Prompting: A Modular Approach for Solving Complex Tasks",
+        "url": "https://arxiv.org/abs/2210.02406"
+      },
+      {
+        "text": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+        "url": "https://arxiv.org/abs/2305.04091"
+      },
+      {
+        "text": "Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models",
+        "url": "https://arxiv.org/abs/2306.06891"
+      },
+      {
+        "text": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+        "url": "https://arxiv.org/abs/2203.11171"
+      },
+      {
+        "text": "Active Prompting with Chain-of-Thought for Large Language Models",
+        "url": "https://aclanthology.org/2024.acl-long.73/"
+      }
+    ]
+  },
+  "036 [Grow] Automatic Prompt Optimization A Deep Dive.html": {
+    "type": "html",
+    "title": "[Grow] Automatic Prompt Optimization: A Deep Dive",
+    "text_len": 1793,
+    "text_sample": "📄\n[Grow] Automatic Prompt Optimization: A Deep Dive\nLesson 4\nBy the end of 2023—and even more so in 2024—we’ve seen a steep drop in basic prompting methods (level 1 and level 2). The reason is straightforward: why spend time mastering every trick of prompt optimization when you can automate the process? This shift has made way for two advanced approaches:\nLevel 3: Meta Prompting/Prompting Engines\n",
+    "links": [
+      {
+        "text": "Anthropic's prompt generator",
+        "url": "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator"
+      },
+      {
+        "text": "OpenAI's advanced usage documentation",
+        "url": "https://platform.openai.com/docs/advanced-usage"
+      },
+      {
+        "text": "prompt optimization reference",
+        "url": "https://langchain-ai.github.io/langmem/reference/prompt_optimization/"
+      },
+      {
+        "text": "blog post on different prompt optimization methods",
+        "url": "https://blog.langchain.dev/exploring-prompt-optimization/"
+      }
+    ]
+  },
+  "037 [Grow] Prompting For Reasoning Models.html": {
+    "type": "html",
+    "title": "[Grow] Prompting For Reasoning Models",
+    "text_len": 6891,
+    "text_sample": "📄\n[Grow] Prompting For Reasoning Models\nLesson 5\nReasoning models are trained in a way that enable users to no longer need elaborate, meticulously crafted prompts, they generate their own chains of thought to break down problems more effectively.\nSome examples include OpenAI's o1, o3 and Deepseek-R1. These systems are designed to autonomously develop internal reasoning processes, essentially handl",
+    "links": []
+  },
+  "038 [Grow] Reading Prompt Engineering Research.html": {
+    "type": "html",
+    "title": "[Grow] Reading Prompt Engineering Research",
+    "text_len": 2137,
+    "text_sample": "📄\n[Grow] Reading Prompt Engineering Research\nLesson 6\nIf you've been wanting to read and understand research papers, prompt engineering papers are the perfect place to start! They are easier to digest, help build the habit of reading research, and teach you how to think critically about AI advancements.\nMost practitioners read research to understand its practical impact (and what it means to them)",
+    "links": [
+      {
+        "text": "NotebookLM",
+        "url": "https://notebooklm.google.com/"
+      }
+    ]
+  },
+  "039 [Grow] Workflow Agents in the Enterprise (Popular Architectures & Examples).html": {
+    "type": "html",
+    "title": "[Grow] Workflow Agents in the Enterprise (Popular Architectures & Examples)",
+    "text_len": 6105,
+    "text_sample": "📄\n[Grow] Workflow Agents in the Enterprise (Popular Architectures & Examples)\nLesson 7\nWe learned quite a bit about prompting LLMs in the last lesson. By orchestrating LLMs in defined workflows, we can build end-to-end use cases—what many call workflow agents (or, in some circles, “agentic” systems). But let’s not get bogged down in the terminology.\nThere are several popular design patterns for bu",
+    "links": [
+      {
+        "text": "Anthropic Building Effective Agents blog",
+        "url": "https://www.anthropic.com/research/building-effective-agents"
+      }
+    ]
+  },
+  "040 [Grow] Evaluating Workflow Agents & Challenges.html": {
+    "type": "html",
+    "title": "[Grow] Evaluating Workflow Agents & Challenges",
+    "text_len": 7469,
+    "text_sample": "📄\n[Grow] Evaluating Workflow Agents & Challenges\nLesson 8\nOnce you've built your workflow agent use-case, the next big question is: How do you know it's working as intended? That’s where evaluation comes into play. You can assess these systems at two levels: at the task level—determining whether the final output meets your expectations—and at the intermediate output level, where you check whether ",
+    "links": [
+      {
+        "text": "short video",
+        "url": "https://www.youtube.com/watch?v=wgfSDrqYMJ4"
+      }
+    ]
+  },
+  "041 [Grow] Evaluating LLM Judge Evaluations Best Practices (Aishwarya's talk).mp4": {
+    "type": "mp4",
+    "size_mb": 116.8
+  },
+  "042 [Grow] Guardrails in AI Systems A Deep Dive.html": {
+    "type": "html",
+    "title": "[Grow] Guardrails in AI Systems: A Deep Dive",
+    "text_len": 3168,
+    "text_sample": "📄\n[Grow] Guardrails in AI Systems: A Deep Dive\nLesson 10\nGuardrails are the safety controls and protocols that are integrated into generative AI systems to keep their behavior within safe and acceptable boundaries. They serve as an intermediary layer between the user and the model, ensuring that both the data entering the system (inputs) and the responses generated (outputs) meet predefined standa",
+    "links": [
+      {
+        "text": "NVIDIA’s NeMo Guardrails",
+        "url": "https://docs.nvidia.com/nemo/guardrails/"
+      },
+      {
+        "text": "Guardrails AI",
+        "url": "https://www.guardrailsai.com/docs/integrations/langchain"
+      }
+    ]
+  },
+  "043 [Grow] MCP Introduction & What it Enables.html": {
+    "type": "html",
+    "title": "[Grow] MCP Introduction & What it Enables",
+    "text_len": 534,
+    "text_sample": "📹\n[Grow] MCP Introduction & What it Enables\nLesson 11\nSince you already have a solid understanding of tool-calling from the core lectures, here’s a link to our April lightning session on building agentic AI apps in 2025.\nWe’ve covered many related parts, but for a good introduction to MCP, start watching from the 14-minute mark to around 25 minutes. We’ve got a lot more content and workshops on MC",
+    "links": []
+  },
+  "044 Building Agentic AI Applications in 2025.mp4": {
+    "type": "mp4",
+    "size_mb": 102.5
+  },
+  "045 [Build] Assignment 1 - Using LangChain.html": {
+    "type": "html",
+    "title": "[Build] Assignment 1 - Using LangChain",
+    "text_len": 12082,
+    "text_sample": "✍️\n[Build] Assignment 1 - Using LangChain\nLesson 1 • COMPLETED SUN. AUG 10\nVideo walkthrough of assignment introduction and LangChain starter code. Watch this in combination with the assignment writeup below:\nBuilding Your Own AI Search Assistant using LangChain: V0\nThe Journey Begins!\nWelcome to our exciting journey into the world of Large Language Models and AI! Over the next few weeks, we'll be",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1TiWFMDmrta6NKQgSA7Vv3jlM0Y1pflOw?usp=drive_link"
+      },
+      {
+        "text": "quick overview",
+        "url": "https://docs.google.com/document/d/17I25iSUBnq6GlPNW0YKWg8BFOmQorikq/edit?tab=t.0"
+      },
+      {
+        "text": "https://python.langchain.com/docs/how_to/routing/",
+        "url": "https://python.langchain.com/docs/how_to/routing/"
+      },
+      {
+        "text": "https://python.langchain.com/docs/how_to/routing/",
+        "url": "https://python.langchain.com/docs/how_to/routing/"
+      },
+      {
+        "text": "https://python.langchain.com/docs/how_to/custom_tools/",
+        "url": "https://python.langchain.com/docs/how_to/custom_tools/"
+      },
+      {
+        "text": "Google Drive here",
+        "url": "https://drive.google.com/drive/folders/1TiWFMDmrta6NKQgSA7Vv3jlM0Y1pflOw?usp=sharing"
+      },
+      {
+        "text": "here",
+        "url": "https://python.langchain.com/api_reference/core/runnables/langchain_core.runnables.history.RunnableWithMessageHistory.html"
+      },
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1TiWFMDmrta6NKQgSA7Vv3jlM0Y1pflOw?usp=sharing"
+      },
+      {
+        "text": "https://python.langchain.com/docs/introduction",
+        "url": "https://python.langchain.com/docs/introduction"
+      }
+    ]
+  },
+  "046 [Build] Assignment 1 - Using LangChain.mp4": {
+    "type": "mp4",
+    "size_mb": 92.58
+  },
+  "047 [Build] Assignment 1 - Using LangFlow.mp4": {
+    "type": "mp4",
+    "size_mb": 142.47
+  },
+  "048 [Build] Assignment 1 - Using LangFlow.html": {
+    "type": "html",
+    "title": "[Build] Assignment 1 - Using LangFlow",
+    "text_len": 16792,
+    "text_sample": "✍️\n[Build] Assignment 1 - Using LangFlow\nLesson 2\nVideo walkthrough of LangFlow components. Watch this in combination with the assignment writeup below:\nBuilding Your Own AI Search Assistant using LangFlow: Week 1\nThe Journey Begins!\nWelcome to our exciting journey into the world of Large Language Models and AI! Over the next few weeks, we'll be building something amazing together - your very own ",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1TiWFMDmrta6NKQgSA7Vv3jlM0Y1pflOw?usp=sharing"
+      },
+      {
+        "text": "https://docs.langflow.org/",
+        "url": "https://docs.langflow.org/"
+      }
+    ]
+  },
+  "049 [Build] Assignment 1 - Test Cases Sample.html": {
+    "type": "html",
+    "title": "[Build] Assignment 1 - Test Cases Sample",
+    "text_len": 3959,
+    "text_sample": "📄\n[Build] Assignment 1 - Test Cases Sample\nLesson 3\nPart 1: Query Understanding Engine Test Cases\nFactual Question\nInput:\n\"What is photosynthesis?\"\nExpected Classification:\nFactual\nExpected Format:\nConcise, direct explanation\nSuccess Criteria:\nResponse should be brief, factual, and not include analytical steps\nAnalytical Question\nInput:\n\"How does a car engine work?\"\nExpected Classification:\nAnalyt",
+    "links": []
+  },
+  "050 [Build] Running Into Issues Start Here FAQs, Common Issues etc..html": {
+    "type": "html",
+    "title": "[Build] Running Into Issues? Start Here: FAQs, Common Issues etc.",
+    "text_len": 10177,
+    "text_sample": "📄\n[Build] Running Into Issues? Start Here: FAQs, Common Issues etc.\nLesson 4\n⚠️ For any errors or bugs, please try chatting with our\nNotebookLM instance\nfirst. It’s loaded with all the assignment details, common issues, and insights from past students. You can paste your error messages, ask specific questions, or describe what’s going wrong. Just make sure to mention whether you’re using LangChain",
+    "links": [
+      {
+        "text": "NotebookLM instance",
+        "url": "https://notebooklm.google.com/notebook/b2eae2ae-ad7a-4dc0-921c-8b7057bc91fa"
+      }
+    ]
+  },
+  "051 Week 2 Homework Office Hours - Aug 6.mp4": {
+    "type": "mp4",
+    "size_mb": 205.23
+  },
+  "052 Week 2 Homework Office Hours - August 6.docx": {
+    "type": "docx",
+    "text_len": 9094,
+    "text_sample": "Week 2 Homework Office Hours - August 6These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: Is there a way to view the output data from custom components like multi-choice router? Is it possible to perform step-by-step debugging of custom Python code"
+  },
+  "053 Week 2 Content Office Hours - Aug 8.mp4": {
+    "type": "mp4",
+    "size_mb": 225.62
+  },
+  "054 Week 2 Content Office Hours - August 7.docx": {
+    "type": "docx",
+    "text_len": 8357,
+    "text_sample": "Week 2 Content Office Hours - August 7These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: Are you done with the assignment? (Regarding database/flows disappearing after Mac update) A: Ravi explained he was done but had to do a Mac update and everyth"
+  },
+  "055 Understanding the Agent Development Lifecycle in the Enterprise [Sam Julien & Ugo Osuji].mp4": {
+    "type": "mp4",
+    "size_mb": 269.82
+  },
+  "056 Understanding the Agent Development Lifecycle in the Enterprise [Sam Julien & Ugo Osuji].html": {
+    "type": "html",
+    "title": "Understanding the Agent Development Lifecycle in the Enterprise [Sam Julien & Ugo Osuji]",
+    "text_len": 64202,
+    "text_sample": "Understanding the Agent Development Lifecycle in the Enterprise [Sam Julien & Ugo Osuji]\nAug 8, 2025\n6:00 PM - 7:00 PM GMT+2\nAudio Transcript\nChat Messages\nMohan Khyadi\n00:01:05\nHi! Everyone.\nAishwarya Naresh Reganti\n00:01:07\nHey, Mohan, we missed you in the office hours yesterday.\nMohan Khyadi\n00:01:11\nYeah, sure. Yeah, this bit early in the morning, and I have some routine in the morning which I",
+    "links": []
+  },
+  "057 Week 2 Content Office Hours - Aug 9.mp4": {
+    "type": "mp4",
+    "size_mb": 239.21
+  },
+  "058 _Week 2 Content Office Hours - August 9.docx": {
+    "type": "docx",
+    "text_len": 9287,
+    "text_sample": "Week 2 Content Office Hours - August 9These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Office Hours SummaryPart 1: Q&A FormatQ: How are folks feeling about GPT-5? A: Mixed reactions from participants. Some reported that GPT-5 broke existing workflows and had issues w"
+  },
+  "059 Week 2 Homework Office Hours - Aug 9.mp4": {
+    "type": "mp4",
+    "size_mb": 397.44
+  },
+  "060 Week 2 Homework Office Hours - August 9.docx": {
+    "type": "docx",
+    "text_len": 7265,
+    "text_sample": "Week 2 Homework Office Hours - August 9These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: Do we need to modify Java code in the calculator tool for rounding numbers, or are there default functions available? A: You need to modify the Python code (n"
+  },
+  "061 [Core] Enterprise RAG in 2025.html": {
+    "type": "html",
+    "title": "[Core] Enterprise RAG in 2025",
+    "text_len": 940,
+    "text_sample": "📹\n[Core] Enterprise RAG in 2025\nLesson 1 • COMPLETED THU. AUG 14\nQuick heads-up before you start watching:\nTo get the best video quality, click the three dots at the bottom right corner of the video and select\n1080p\n.\n(Standard YouTube etiquette — makes a big difference, so do that before you hit play.)\nWhat you'll learn:\nHow Retrieval-Augmented Generation (RAG) solves the context and memory limit",
+    "links": [
+      {
+        "text": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md",
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md"
+      },
+      {
+        "text": "here",
+        "url": "https://www.canva.com/design/DAGpcmXbA04/t7rqjR4Gzi19GjA0XUN4_Q/view?utm_content=DAGpcmXbA04&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9d21093bd3"
+      }
+    ]
+  },
+  "062 [Core] Enterprise RAG in 2025.mp4": {
+    "type": "mp4",
+    "size_mb": 139.13
+  },
+  "063 [Core] Advanced RAG Methods + Implementing Memory in Agents.html": {
+    "type": "html",
+    "title": "[Core] Advanced RAG Methods + Implementing Memory in Agents",
+    "text_len": 673,
+    "text_sample": "📹\n[Core] Advanced RAG Methods + Implementing Memory in Agents\nLesson 2 • COMPLETED MON. AUG 18\nWhat You'll Learn:\nWhy retrieval often fails in enterprise RAG setups and easy-to-advanced methods to improve retrieval quality, from query rewriting to GraphRAG and fine-tuned retrievers\nHow to debug and fix common RAG failures using structured strategies and examples drawn from real-world use cases.\nHo",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.canva.com/design/DAGpn4N8zs4/9V9Q_vg5v62jpLnbXks30g/view?utm_content=DAGpn4N8zs4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h143e1b5d76"
+      }
+    ]
+  },
+  "064 [Core] Advanced RAG Methods + Implementing Memory in Agents.mp4": {
+    "type": "mp4",
+    "size_mb": 238.33
+  },
+  "065 [Core] Context Engineering in Agents.html": {
+    "type": "html",
+    "title": "[Core] Context Engineering in Agents",
+    "text_len": 1373,
+    "text_sample": "📄\n[Core] Context Engineering in Agents\nLesson 3\nLately, a new term has been doing the rounds:\ncontext engineering\n. Andrej Karpathy puts it as — “Context engineering is the delicate art and science of filling the context window with just the right information for the next step.”\nIf you’ve completed the core material from the previous weeks, you’ll realize that’s exactly what we’ve been covering. W",
+    "links": [
+      {
+        "text": "source",
+        "url": "https://www.philschmid.de/context-engineering"
+      },
+      {
+        "text": "Context Engineering Course",
+        "url": "https://github.com/davidkimai/Context-Engineering"
+      },
+      {
+        "text": "Context Engineering Lessons from HumanLayer",
+        "url": "https://github.com/humanlayer/12-factor-agents"
+      },
+      {
+        "text": "Manus' guide on Context Engineering",
+        "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus"
+      },
+      {
+        "text": "Tutorial on Context Engineering",
+        "url": "https://www.youtube.com/watch?v=nyKvyRrpbyY"
+      }
+    ]
+  },
+  "066 [Grow] Recorded Guest Lectures on RAG in the Enterprise.html": {
+    "type": "html",
+    "title": "[Grow] Recorded Guest Lectures on RAG in the Enterprise",
+    "text_len": 1092,
+    "text_sample": "📹\n[Grow] Recorded Guest Lectures on RAG in the Enterprise\nLesson 4\nBuilding AI systems for finance by\nJayeeta Patatunda (\nDirector - AI CoE @ Fitch Ratings)\nLink to the\nJupyter notebook\nused by Jayeeta\nLink to a\nNotebookLM Instance\nfor summary/questions\nEnterprise RAG, Challenges & Learnings by\nDoneyli De Jesus\n(Principal AI Architect, Snowflake)\nLink to a\nNotebookLM Instance\nfor summary/questions",
+    "links": [
+      {
+        "text": "Jayeeta Patatunda (",
+        "url": "https://www.linkedin.com/in/jayeeta-putatunda/"
+      },
+      {
+        "text": "Jupyter notebook",
+        "url": "https://colab.research.google.com/drive/1g6e8pECzHlaH7R26u7jr1zjKe_X6CrpM?usp=sharing"
+      },
+      {
+        "text": "NotebookLM Instance",
+        "url": "https://notebooklm.google.com/notebook/b1831890-ff62-43b1-9359-eb61603a6ac2"
+      },
+      {
+        "text": "Doneyli De Jesus",
+        "url": "https://www.linkedin.com/in/doneyli/?originalSubdomain=ca"
+      },
+      {
+        "text": "NotebookLM Instance",
+        "url": "https://notebooklm.google.com/notebook/c55dcbd7-006a-4c96-a13b-108ec7a937f2"
+      }
+    ]
+  },
+  "067 [Grow] Recorded Guest Lectures on RAG in the Enterprise 1.mp4": {
+    "type": "mp4",
+    "size_mb": 380.15
+  },
+  "068 [Grow] Recorded Guest Lectures on RAG in the Enterprise 2.mp4": {
+    "type": "mp4",
+    "size_mb": 203.06
+  },
+  "069 [Grow] Vector Databases Deep Dive.html": {
+    "type": "html",
+    "title": "[Grow] Vector Databases Deep Dive",
+    "text_len": 7459,
+    "text_sample": "📄\n[Grow] Vector Databases Deep Dive\nLesson 5\nWe learnt that vector databases are a cornerstone of modern AI applications, particularly inRAG systems. They empower your applications to perform semantic searches at scale, ensuring that relevant, context-aware data is readily available to your LLMs. By carefully evaluating key features, indexing methods, scalability, real-time updates, metadata suppo",
+    "links": [
+      {
+        "text": "https://superlinked.com/vector-db-comparison",
+        "url": "https://superlinked.com/vector-db-comparison"
+      },
+      {
+        "text": "approximate nearest neighbor (ANN) algorithms",
+        "url": "https://medium.com/@bragadeeshs/exploring-the-world-of-vector-search-hnsw-ann-algorithms-and-similarity-metrics-3327dd69a79a#:~:text=HNSW%20is%20a%20graph%2Dbased,and%20natural%20language%20processing%20tasks."
+      },
+      {
+        "text": "Milvus",
+        "url": "https://milvus.io/"
+      },
+      {
+        "text": "Weaviate",
+        "url": "https://weaviate.io/"
+      },
+      {
+        "text": "Qdrant",
+        "url": "https://qdrant.tech/"
+      },
+      {
+        "text": "Chroma",
+        "url": "https://github.com/chroma-core/chroma"
+      },
+      {
+        "text": "Pinecone",
+        "url": "https://www.pinecone.io/"
+      },
+      {
+        "text": "Zilliz Cloud",
+        "url": "https://zilliz.com/"
+      },
+      {
+        "text": "FAISS",
+        "url": "https://github.com/facebookresearch/faiss"
+      },
+      {
+        "text": "Milvus",
+        "url": "https://milvus.io/"
+      },
+      {
+        "text": "Weaviate",
+        "url": "https://weaviate.io/"
+      },
+      {
+        "text": "Pinecone",
+        "url": "https://www.pinecone.io/"
+      },
+      {
+        "text": "Qdrant",
+        "url": "https://qdrant.tech/"
+      },
+      {
+        "text": "Chroma",
+        "url": "https://github.com/chroma-core/chroma"
+      },
+      {
+        "text": "Zilliz Cloud",
+        "url": "https://zilliz.com/"
+      },
+      {
+        "text": "Pinecone",
+        "url": "https://www.pinecone.io/"
+      },
+      {
+        "text": "Zilliz Cloud",
+        "url": "https://zilliz.com/"
+      },
+      {
+        "text": "Milvus",
+        "url": "https://milvus.io/"
+      },
+      {
+        "text": "Weaviate",
+        "url": "https://weaviate.io/"
+      },
+      {
+        "text": "Qdrant",
+        "url": "https://qdrant.tech/"
+      },
+      {
+        "text": "Hugging Face",
+        "url": "https://huggingface.co/"
+      }
+    ]
+  },
+  "070 [Grow] Frequently Used RAG Evaluation Metrics.html": {
+    "type": "html",
+    "title": "[Grow] Frequently Used RAG Evaluation Metrics",
+    "text_len": 8842,
+    "text_sample": "📄\n[Grow] Frequently Used RAG Evaluation Metrics\nLesson 6\nRemember that every time you add a new component in an AI pipeline, i\nt needs to be evaluated and tested\n. In AI, testing is essentially an extension of evaluation—by choosing the most important data and metrics during offline evaluation, you create a test harness to monitor any changes to your pipeline. And while the metrics we learned for ",
+    "links": [
+      {
+        "text": "RAG Evaluation",
+        "url": "https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/rag-evaluation/"
+      },
+      {
+        "text": "Pinecone’s RAG Evaluation guide",
+        "url": "https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/rag-evaluation/"
+      },
+      {
+        "text": "Evaluation of Retrieval-Augmented Generation: A Survey",
+        "url": "https://arxiv.org/abs/2405.07437"
+      },
+      {
+        "text": "Awesome RAG Evaluation",
+        "url": "https://github.com/YHPeter/Awesome-RAG-Evaluation"
+      },
+      {
+        "text": "https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/",
+        "url": "https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "https://github.com/comet-ml/opik",
+        "url": "https://github.com/comet-ml/opik"
+      },
+      {
+        "text": "https://github.com/huggingface/evaluate",
+        "url": "https://github.com/huggingface/evaluate"
+      }
+    ]
+  },
+  "071 [Grow] RAG Optimizations Deep Dive (Caching & Agentic RAG).html": {
+    "type": "html",
+    "title": "[Grow] RAG Optimizations Deep Dive (Caching & Agentic RAG)",
+    "text_len": 3846,
+    "text_sample": "📄\n[Grow] RAG Optimizations Deep Dive (Caching & Agentic RAG)\nLesson 7\nIn the previous session, we focused on solving key challenges in RAG solutions. Now, what if we want to further optimize for latency or cost once a certain level of performance is achieved? Think of these as enhancements rather than problem-solving. Below are some common methods, along with curated resources for those who want t",
+    "links": [
+      {
+        "text": "really nice blog",
+        "url": "https://huggingface.co/learn/cookbook/en/semantic_cache_chroma_vector_database"
+      },
+      {
+        "text": "https://medium.com/google-cloud/implementing-semantic-caching-a-step-by-step-guide-to-faster-cost-effective-genai-workflows-ef85d8e72883",
+        "url": "https://medium.com/google-cloud/implementing-semantic-caching-a-step-by-step-guide-to-faster-cost-effective-genai-workflows-ef85d8e72883"
+      },
+      {
+        "text": "https://www.mongodb.com/developer/products/atlas/advanced-rag-langchain-mongodb/",
+        "url": "https://www.mongodb.com/developer/products/atlas/advanced-rag-langchain-mongodb/"
+      },
+      {
+        "text": "https://arxiv.org/pdf/2501.09136",
+        "url": "https://arxiv.org/pdf/2501.09136"
+      },
+      {
+        "text": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md",
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md"
+      }
+    ]
+  },
+  "072 [Grow] Multimodal RAG Deep-Dive.html": {
+    "type": "html",
+    "title": "[Grow] Multimodal RAG Deep-Dive",
+    "text_len": 3153,
+    "text_sample": "📄\n[Grow] Multimodal RAG Deep-Dive\nLesson 8\nMultimodal RAG expands the capabilities of RAG applications by enabling them to process diverse data types such as tables, graphs, charts, and diagrams, rather than just text. This requires a framework that can interpret and generate responses by coherently integrating textual, visual, and other modalities.\nKey Aspects of Building a Multimodal RAG Pipelin",
+    "links": [
+      {
+        "text": "CLIP",
+        "url": "https://openai.com/index/clip/"
+      },
+      {
+        "text": "https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb",
+        "url": "https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb"
+      }
+    ]
+  },
+  "073 [Grow] GraphRAG Deep-Dive.html": {
+    "type": "html",
+    "title": "[Grow] GraphRAG Deep-Dive",
+    "text_len": 7155,
+    "text_sample": "📄\n[Grow] GraphRAG Deep-Dive\nLesson 9\nWhile effective, conventional RAG models treat retrieved documents as flat text snippets, missing out on inter-document relations. This limits the model’s ability to perform reasoning that depends on understanding connections across multiple knowledge pieces, such as cause-effect chains, entity relationships, or logical inference. Remember that\nIn many real-wor",
+    "links": [
+      {
+        "text": "https://arxiv.org/pdf/2501.00309",
+        "url": "https://arxiv.org/pdf/2501.00309"
+      },
+      {
+        "text": "https://github.com/microsoft/graphrag",
+        "url": "https://github.com/microsoft/graphrag"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=XlAIgmi_Vow",
+        "url": "https://www.youtube.com/watch?v=XlAIgmi_Vow&t=2s"
+      }
+    ]
+  },
+  "074 [Grow] Reading RAG Papers.html": {
+    "type": "html",
+    "title": "[Grow] Reading RAG Papers",
+    "text_len": 3473,
+    "text_sample": "📄\n[Grow] Reading RAG Papers\nLesson 10\nIf you've been wanting to read and understand research papers, we recommend starting with prompt engineering papers, followed by RAG (Retrieval-Augmented Generation). Remember, reading research papers is all about understanding three key aspects:\nThe base solution\n– What is the fundamental approach to solving the problem?\nThe improvement\n– How does the researc",
+    "links": [
+      {
+        "text": "NotebookLM",
+        "url": "https://notebooklm.google.com/"
+      },
+      {
+        "text": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md",
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md"
+      }
+    ]
+  },
+  "075 [Grow] Additional Resources on Agent Memory.html": {
+    "type": "html",
+    "title": "[Grow] Additional Resources on Agent Memory",
+    "text_len": 2309,
+    "text_sample": "📄\n[Grow] Additional Resources on Agent Memory\nLesson 11\nWe spoke about model-level self-improvement and memory in the lectures. Here are a few well-known papers on the topic. Just a heads-up: to fully understand them, you'll need a solid grasp of transformers, deep learning, and reinforcement learning.\nRetroformer: Retrospective Large Language Agents with Policy Gradient Optimization\nThis paper in",
+    "links": [
+      {
+        "text": "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization",
+        "url": "https://arxiv.org/pdf/2308.02151"
+      },
+      {
+        "text": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+        "url": "https://arxiv.org/pdf/2303.11366"
+      },
+      {
+        "text": "A Survey on the Memory Mechanism of Large Language Model based Agents",
+        "url": "https://arxiv.org/pdf/2404.13501"
+      }
+    ]
+  },
+  "076 [Grow] Reading Agent Memory Papers.html": {
+    "type": "html",
+    "title": "[Grow] Reading Agent Memory Papers",
+    "text_len": 3245,
+    "text_sample": "📄\n[Grow] Reading Agent Memory Papers\nLesson 12\nHow to Read Papers on Memory in Agents\nIf you're trying to understand how memory is used in agentic AI systems, here's how to break it down. Just like in RAG papers, you're looking for the\nbase solution, improvement, and trade-offs\n. Memory in agents can be implemented at two levels:\nAgent-level memory\n: implemented in the system architecture (e.g., r",
+    "links": [
+      {
+        "text": "NotebookLM",
+        "url": "https://notebooklm.google.com/"
+      }
+    ]
+  },
+  "077 [Build] Assignment 1 Solutions 1.mp4": {
+    "type": "mp4",
+    "size_mb": 96.13
+  },
+  "078 [Build] Assignment 1 Solutions 2.mp4": {
+    "type": "mp4",
+    "size_mb": 80.89
+  },
+  "079 [Build] Assignment 1 Solutions.html": {
+    "type": "html",
+    "title": "[Build] Assignment 1 Solutions",
+    "text_len": 698,
+    "text_sample": "📹\n[Build] Assignment 1 Solutions\nLesson 1\nThe solutions for both variants of the assignment (LangFlow and LangChain) are provided in Google Drive\nhere\n. (Folder name - 'Assignment 1 - Solutions')\nFor LangFlow, you need to download the\n.json\nfile and load that into your LangFlow UI. Where exactly to click is described in the video below.\nFor LangChain, we provide the completely filled out part{1,2,",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      }
+    ]
+  },
+  "080 [Build] Assignment 2 - Using LangGraph.mp4": {
+    "type": "mp4",
+    "size_mb": 154.5
+  },
+  "081 [Build] Assignment 2 - Using LangGraph.html": {
+    "type": "html",
+    "title": "[Build] Assignment 2 - Using LangGraph",
+    "text_len": 14421,
+    "text_sample": "📹\n[Build] Assignment 2 - Using LangGraph\nLesson 1\nPowering Up with Real-World Knowledge!\nWelcome back, amazing\nPerplexia\nbuilders!\nLast week, you created a solid foundation for your AI assistant with smart query understanding, basic tools, and conversation memory. Your users are loving the experience, but they're hungry for more - they want an assistant that can access and understand\nreal-world in",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "Google Drive folder",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "Link to the original research paper",
+        "url": "https://arxiv.org/abs/2401.15884"
+      },
+      {
+        "text": "Docs",
+        "url": "https://python.langchain.com/api_reference/community/tools/langchain_community.tools.tavily_search.tool.TavilySearchResults.html#langchain_community.tools.tavily_search.tool.TavilySearchResults.return_direct"
+      },
+      {
+        "text": "https://github.com/docugami/KG-RAG-datasets",
+        "url": "https://github.com/docugami/KG-RAG-datasets"
+      },
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1h-g9aBIa9FWX6Afe2NCxzVkdusokmJpY?usp=sharing"
+      },
+      {
+        "text": "https://python.langchain.com/docs/integrations/document_loaders/#pdfs",
+        "url": "https://python.langchain.com/docs/integrations/document_loaders/#pdfs"
+      },
+      {
+        "text": "https://python.langchain.com/docs/concepts/vectorstores",
+        "url": "https://python.langchain.com/docs/concepts/vectorstores"
+      },
+      {
+        "text": "https://python.langchain.com/api_reference/core/vectorstores/langchain_core.vectorstores.in_memory.InMemoryVectorStore.html",
+        "url": "https://python.langchain.com/api_reference/core/vectorstores/langchain_core.vectorstores.in_memory.InMemoryVectorStore.html"
+      },
+      {
+        "text": "https://python.langchain.com/docs/integrations/vectorstores/chroma/",
+        "url": "https://python.langchain.com/docs/integrations/vectorstores/chroma/"
+      },
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "LangGraph documentation",
+        "url": "https://langchain-ai.github.io/langgraph/"
+      }
+    ]
+  },
+  "082 [Build] Assignment 2 - Using LangFlow.html": {
+    "type": "html",
+    "title": "[Build] Assignment 2 - Using LangFlow",
+    "text_len": 18311,
+    "text_sample": "📹\n[Build] Assignment 2 - Using LangFlow\nLesson 2\nPowering Up with Real-World Knowledge\nWelcome back, Perplexia builders! Last week, you created a solid foundation for your AI assistant with smart query understanding, basic tools, and conversation memory. Your users are loving the experience, but they want more - they want an assistant that can access and understand real-world information, just lik",
+    "links": [
+      {
+        "text": "link here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "this dataset",
+        "url": "https://github.com/docugami/KG-RAG-datasets"
+      },
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1h-g9aBIa9FWX6Afe2NCxzVkdusokmJpY?usp=sharing"
+      },
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "LangFlow documentation",
+        "url": "https://docs.langflow.org/"
+      }
+    ]
+  },
+  "083 [Build] Assignment 2 - Using LangFlow.mp4": {
+    "type": "mp4",
+    "size_mb": 123.37
+  },
+  "084 [Build] Tavily Setup.html": {
+    "type": "html",
+    "title": "[Build] Tavily Setup",
+    "text_len": 1710,
+    "text_sample": "📄\n[Build] Tavily Setup\nLesson 3\nWe'll be using Tavily search engine for improving our AI assistant with real-time search results. You'll be needing an API key from Tavily (similar to an API key from OpenAI for the model)\nHead to\nhttps://tavily.com/\nand signup using Google (or any preferred means).\nOnce the sign-up is completed, the home page should look as follows:\nYou can generate a new API key o",
+    "links": [
+      {
+        "text": "https://tavily.com/",
+        "url": "https://tavily.com/"
+      }
+    ]
+  },
+  "085 [Build] Assignment 2 - Test Cases.html": {
+    "type": "html",
+    "title": "[Build] Assignment 2 - Test Cases",
+    "text_len": 3188,
+    "text_sample": "📄\n[Build] Assignment 2 - Test Cases\nLesson 4\nUnlike last week, this week's test cases are not exhaustive. Given the dynamic nature of the assignment, your system's answers don't need to match the\nexact response\nmentioned here. We encourage you to experiment with different questions and improve the system.\nRemember that AI system design is an iterative process.\nPart 1: Web Search Test Cases\nSince t",
+    "links": []
+  },
+  "086 [Build] Comet Opik Setup (ONLY for LangChainLangGraph users).mp4": {
+    "type": "mp4",
+    "size_mb": 117.94
+  },
+  "087 [Build] Comet Opik Setup (ONLY for LangChainLangGraph users).html": {
+    "type": "html",
+    "title": "[Build] Comet Opik Setup (ONLY for LangChain/LangGraph users)",
+    "text_len": 1280,
+    "text_sample": "📄\n[Build] Comet Opik Setup (ONLY for LangChain/LangGraph users)\nLesson 5\nNOTE: This is only required for the bonus component of LangGraph assignment.\nNavigate to\nhttps://www.comet.com/signup\nand fill in your details to sign-up for a free account on their platform. You can use any sign up method.\nOnce you sign-up, you should be able to get your API keys from the top-right:\nYou need to have the foll",
+    "links": [
+      {
+        "text": "https://www.comet.com/signup",
+        "url": "https://www.comet.com/signup"
+      },
+      {
+        "text": "link",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=sharing"
+      },
+      {
+        "text": "https://www.comet.com/docs/opik/tracing/sdk_configuration#configuration-values",
+        "url": "https://www.comet.com/docs/opik/tracing/sdk_configuration#configuration-values"
+      },
+      {
+        "text": "https://www.comet.com/site/pricing/",
+        "url": "https://www.comet.com/site/pricing/"
+      }
+    ]
+  },
+  "088 [Build] Running Into Issues Start Here.html": {
+    "type": "html",
+    "title": "[Build] Running Into Issues? Start Here",
+    "text_len": 568,
+    "text_sample": "📄\n[Build] Running Into Issues? Start Here\nLesson 6\n⚠️ For any errors or bugs, please try chatting with our\nNotebookLM instance first.\nIt’s loaded with all the assignment 2 info and common issues, and you can paste your errors, ask specific questions, or describe issues.\nEach notebook contains instructions only for the current assignment. Make sure you're using the correct notebook instance.\nIf you",
+    "links": [
+      {
+        "text": "NotebookLM instance first.",
+        "url": "https://notebooklm.google.com/notebook/0f10974b-60f5-4f8a-aa6b-553f3d83d734?_gl=1*1ksbgxx*_ga*MTA2MjAxMjA3Ny4xNzQ3ODcxOTY3*_ga_W0LDH41ZCB*czE3NDk0MTQ0ODckbzYkZzAkdDE3NDk0MTQ1MzYkajExJGwwJGgw"
+      },
+      {
+        "text": "instance.",
+        "url": "https://notebooklm.google.com/notebook/941996fc-c025-4da7-b3f1-854675e742a4"
+      }
+    ]
+  },
+  "089 AI and the Future of Software Development A Sneak Peek [Pritika Mehta].mp4": {
+    "type": "mp4",
+    "size_mb": 180.51
+  },
+  "090 Notes for_ AI and the Future of Software Development_ A Sneak Peek [Pritika Mehta].docx": {
+    "type": "docx",
+    "text_len": 7625,
+    "text_sample": "Notes for: AI and the Future of Software Development: A Sneak Peek [Pritika Mehta]These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Speaker & ContextSpeaker: Prithika, Co-founder of Butternut AI Background: YC alum, third-time startup founder (first acquired, second p"
+  },
+  "091 Week 3 Homework Office Hours - Aug 13.mp4": {
+    "type": "mp4",
+    "size_mb": 131.5
+  },
+  "092 Week 3 Homework Office Hours - August 13.docx": {
+    "type": "docx",
+    "text_len": 5304,
+    "text_sample": "Week 3 Homework Office Hours - August 13These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: For Assignment 2, Part 1, do you need to use LLM to format the output, or are there alternative ways? Using LLM seems expensive.A: While you can optimize cos"
+  },
+  "093 AMA w Jaya Gupta (Partner, Foundation Capital).mp4": {
+    "type": "mp4",
+    "size_mb": 174.13
+  },
+  "094 Week 3 Content Office Hours - Aug 15.mp4": {
+    "type": "mp4",
+    "size_mb": 179.46
+  },
+  "095 Week 3 Content Office Hours - August 14.docx": {
+    "type": "docx",
+    "text_len": 7202,
+    "text_sample": "Week 3 Content Office Hours - August 14These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: RAG decision tree - I'm not clear about whether the use case lacks a planning component. Can you elaborate?A: The planning component refers to whether your ag"
+  },
+  "096 Week 3 Content Office Hours - Aug 16.mp4": {
+    "type": "mp4",
+    "size_mb": 189.06
+  },
+  "097 Week 3 Content Office Hours - August 16.docx": {
+    "type": "docx",
+    "text_len": 10045,
+    "text_sample": "Week 3 Content Office Hours - August 16These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: In agent-to-RAG systems, does the agent decide what kind of searching to do (semantic, keyword, hybrid)?A: Yes, it's a configurable lever. You can prompt the "
+  },
+  "098 Week 3 Homework Office Hours - Aug 16.mp4": {
+    "type": "mp4",
+    "size_mb": 134.61
+  },
+  "099 Week 3 Homework Office Hours - August 16.docx": {
+    "type": "docx",
+    "text_len": 8110,
+    "text_sample": "Week 3 Homework Office Hours - August 16These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: What's the difference between in-memory vector store and other vector databases like Pinecone in terms of size limitations?A: In-memory vector stores use sys"
+  },
+  "100 [Core] Types of Agents & AI Protocols.html": {
+    "type": "html",
+    "title": "[Core] Types of Agents & AI Protocols",
+    "text_len": 788,
+    "text_sample": "📹\n[Core] Types of Agents & AI Protocols\nLesson 1\nNote:\nBefore watching this lecture, we strongly recommend watching\nthis video\n. In our lecture we dive into the technical details of MCP. If you're not already familiar with what it is, the video will give you a solid foundation and make it much easier to follow along.\nWhat You'll learn:\nUnderstand what makes an AI system “agentic” and how different",
+    "links": [
+      {
+        "text": "this video",
+        "url": "https://www.youtube.com/watch?v=7j_NE6Pjv-E"
+      },
+      {
+        "text": "slides",
+        "url": "https://www.canva.com/design/DAGp-2A7DJo/37WmsnH5e5Kya6oFpaItSw/view?utm_content=DAGp-2A7DJo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15c38d0fd4"
+      }
+    ]
+  },
+  "101 [Core] Types of Agents & AI Protocols.mp4": {
+    "type": "mp4",
+    "size_mb": 173.72
+  },
+  "102 [Core] Planning in Agents (ReAct Prompting).html": {
+    "type": "html",
+    "title": "[Core] Planning in Agents (ReAct Prompting)",
+    "text_len": 1026,
+    "text_sample": "📄\n[Core] Planning in Agents (ReAct Prompting)\nLesson 2\nWe spoke quite a bit about planning in agents by prompting them. One widely used prompting technique for agent planning is called ReAct. It’s used in many agent systems and is definitely a good one to know.\nReAct stands for Reasoning + Acting, where the agent first thinks aloud about the problem before taking any action. This allows it to iter",
+    "links": [
+      {
+        "text": "Tree of thought",
+        "url": "https://arxiv.org/abs/2409.11527"
+      },
+      {
+        "text": "hierarchal planning",
+        "url": "https://arxiv.org/abs/2408.16090"
+      },
+      {
+        "text": "ReAct",
+        "url": "https://arxiv.org/abs/2210.03629"
+      },
+      {
+        "text": "https://www.pinecone.io/learn/langgraph-research-agent/",
+        "url": "https://www.pinecone.io/learn/langgraph-research-agent/"
+      },
+      {
+        "text": "here",
+        "url": "https://langchain-ai.github.io/langgraph/concepts/agentic_concepts/"
+      }
+    ]
+  },
+  "103 [Core] Multi-Agent Systems, AIOps & Fine-Tuning.html": {
+    "type": "html",
+    "title": "[Core] Multi-Agent Systems, AIOps & Fine-Tuning",
+    "text_len": 611,
+    "text_sample": "📹\n[Core] Multi-Agent Systems, AIOps & Fine-Tuning\nLesson 3\nWhat You'll Learn:\nUnderstand when and why to move from single-agent to multi-agent systems, with real enterprise examples\nLearn coordination, memory sharing, and AI collusion challenges in multi-agent setups\nExplore practical debugging strategies for non-deterministic agents using observability and replayability\nCompare RAG vs. Fine-Tunin",
+    "links": [
+      {
+        "text": "slides",
+        "url": "https://www.canva.com/design/DAGp_pzQIlM/vssS92mY1AzvB2T2Hk-C0g/view?utm_content=DAGp_pzQIlM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he4c0fa00a7"
+      }
+    ]
+  },
+  "104 [Core] Multi-Agent Systems, AIOps & Fine-Tuning.mp4": {
+    "type": "mp4",
+    "size_mb": 231.59
+  },
+  "105 [Grow] Ambient Agents, Background Agents, Sub-Agents and More!.html": {
+    "type": "html",
+    "title": "[Grow] Ambient Agents, Background Agents, Sub-Agents and More!",
+    "text_len": 3328,
+    "text_sample": "📄\n[Grow] Ambient Agents, Background Agents, Sub-Agents and More!\nLesson 4\nIn recent months, a wave of new terms has emerged to describe different kinds of agents. These labels don’t change what an agent fundamentally is, they mainly describe certain design patterns or specific applications. If you understand the core concepts, these should be straightforward.\n1. Deep Agent\n:\nPlans ahead, breaks wo",
+    "links": [
+      {
+        "text": "https://blog.langchain.com/deep-agents/",
+        "url": "https://blog.langchain.com/deep-agents/"
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=TTMYJAw5tiA",
+        "url": "https://www.youtube.com/watch?v=TTMYJAw5tiA"
+      },
+      {
+        "text": "https://docs.anthropic.com/en/docs/claude-code/sub-agents",
+        "url": "https://docs.anthropic.com/en/docs/claude-code/sub-agents"
+      },
+      {
+        "text": "https://blog.langchain.com/introducing-ambient-agents/",
+        "url": "https://blog.langchain.com/introducing-ambient-agents/"
+      },
+      {
+        "text": "https://academy.langchain.com/courses/ambient-agents/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_ambient-agents_co",
+        "url": "https://academy.langchain.com/courses/ambient-agents/?utm_medium=social&utm_source=youtube&utm_campaign=q2-2025_ambient-agents_co"
+      },
+      {
+        "text": "https://docs.cursor.com/en/background-agent",
+        "url": "https://docs.cursor.com/en/background-agent"
+      }
+    ]
+  },
+  "106 [Grow] Recorded Guest Lecture on Agent Evaluation.html": {
+    "type": "html",
+    "title": "[Grow] Recorded Guest Lecture on Agent Evaluation",
+    "text_len": 1215,
+    "text_sample": "📹\n[Grow] Recorded Guest Lecture on Agent Evaluation\nLesson 5\nAman Khan (Director of Product) walks us through a few use cases on how to evaluate agents using Arize’s open-source evaluation framework, Phoenix. Recorded from Cohort 1 (March 2025)\nLink to\nNotebook LM Instanc\ne for Q/A Summary\nPrevious\nComplete\nComplete this lesson\nNext\n0%\n📹\nLesson 1\n[Core] Types of Agents & AI Protocols\n📄\nLesson 2\n[C",
+    "links": [
+      {
+        "text": "Notebook LM Instanc",
+        "url": "https://notebooklm.google.com/notebook/f31695dc-d072-40de-8463-837aae420112"
+      }
+    ]
+  },
+  "107 [Grow] Recorded Guest Lecture on Agent Evaluation.mp4": {
+    "type": "mp4",
+    "size_mb": 361.6
+  },
+  "108 [Grow] Deep Dive on Multi-Agent Design Patterns.html": {
+    "type": "html",
+    "title": "[Grow] Deep Dive on Multi-Agent Design Patterns",
+    "text_len": 3342,
+    "text_sample": "📄\n[Grow] Deep Dive on Multi-Agent Design Patterns\nLesson 6\nWe already saw the two high level categories of multi-agent design in the lectures, here's a deeper dive with some examples to help you understand. These are not exhaustive, and you’ll notice that they closely resemble prompt workflow agents, except that here, each entity isn’t just an LLM but a full-fledged agent with its own environment ",
+    "links": []
+  },
+  "109 [Grow] A Real-World Multi-Agent System Google's AI Co-Scientist.html": {
+    "type": "html",
+    "title": "[Grow] A Real-World Multi-Agent System: Google's AI Co-Scientist",
+    "text_len": 2497,
+    "text_sample": "📄\n[Grow] A Real-World Multi-Agent System: Google's AI Co-Scientist\nLesson 7\nScientific research is often a slow and painstaking process. Researchers run experiments, analyze results, generate hypotheses, and refine their approaches—all of which take time. Google’s AI Co-Scientist aims to speed up this process by using multi-agent AI systems to automate and optimize different stages of scientific d",
+    "links": [
+      {
+        "text": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
+        "url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/"
+      }
+    ]
+  },
+  "110 [Grow] Enterprise Use Cases For Agents (Level 1 & Level 2).html": {
+    "type": "html",
+    "title": "[Grow] Enterprise Use Cases For Agents (Level 1 & Level 2)",
+    "text_len": 9401,
+    "text_sample": "📄\n[Grow] Enterprise Use Cases For Agents (Level 1 & Level 2)\nLesson 8\nTo help you better understand what it takes to move from Level 1 to Level 2 agents in the enterprise, here are a few hypothetical use cases. For each use case, we illustrate how it can be implemented as a Level 1 workflow agent versus a Level 2 planning or dynamic agent.\nFinance\nAlgorithmic Trading & Portfolio Management\nLevel 1",
+    "links": []
+  },
+  "111 [Grow] How, When & When Not to Build Level 2 Agents in Enterprise (A Deep Dive).html": {
+    "type": "html",
+    "title": "[Grow] How, When & When Not to Build Level 2 Agents in Enterprise (A Deep Dive)",
+    "text_len": 15165,
+    "text_sample": "📄\n[Grow] How, When & When Not to Build Level 2 Agents in Enterprise (A Deep Dive)\nLesson 9\nBased on our experience in building a few successful dynamic agents (level 2) in the enterprise, here are some best practices we recommend.\n1. Start with a Prompt Workflow Agent or Workflow Before Going Fully Autonomous\nWhy? Because scoping out the problem first prevents unexpected failures when transitionin",
+    "links": [
+      {
+        "text": "Hugging Face Agent Leaderboard",
+        "url": "https://huggingface.co/spaces/galileo-ai/agent-leaderboard"
+      },
+      {
+        "text": "Berkeley’s Tool-Calling Leaderboard",
+        "url": "https://gorilla.cs.berkeley.edu/leaderboard.html?ref=blog.langchain.dev"
+      },
+      {
+        "text": "Opik",
+        "url": "https://www.comet.com/site/products/opik/"
+      }
+    ]
+  },
+  "112 [Grow] The AI Agent Stack + Players!.html": {
+    "type": "html",
+    "title": "[Grow] The AI Agent Stack + Players!",
+    "text_len": 16154,
+    "text_sample": "📄\n[Grow] The AI Agent Stack + Players!\nLesson 10\nWe've put together an AI agents stack covering all the layers needed to build agents today and key players in the area. This applies to any type of agent—workflow agents, RAG-enhanced agents, or fully autonomous AI agents.\nMaybe we should call this the AI stack, but \"agents\" sounds fancy :p\nThis is for those building agents from scratch, so it doesn",
+    "links": [
+      {
+        "text": "OpenAI",
+        "url": "https://openai.com/"
+      },
+      {
+        "text": "Anthropic (Claude)",
+        "url": "https://www.anthropic.com/"
+      },
+      {
+        "text": "Google Gemini",
+        "url": "https://ai.google/"
+      },
+      {
+        "text": "Together.AI",
+        "url": "https://www.together.ai/"
+      },
+      {
+        "text": "Fireworks AI",
+        "url": "https://www.fireworks.ai/"
+      },
+      {
+        "text": "Groq",
+        "url": "https://groq.com/"
+      },
+      {
+        "text": "vLLM",
+        "url": "https://github.com/vllm-project/vllm"
+      },
+      {
+        "text": "SGLang",
+        "url": "https://github.com/sglang/sglang"
+      },
+      {
+        "text": "Ollama",
+        "url": "https://ollama.com/"
+      },
+      {
+        "text": "Replicate",
+        "url": "https://replicate.com/"
+      },
+      {
+        "text": "Cerebras",
+        "url": "https://www.cerebras.net/"
+      },
+      {
+        "text": "Chroma",
+        "url": "https://github.com/chroma-core/chroma"
+      },
+      {
+        "text": "Qdrant",
+        "url": "https://qdrant.tech/"
+      },
+      {
+        "text": "Weaviate",
+        "url": "https://weaviate.io/"
+      },
+      {
+        "text": "Milvus",
+        "url": "https://milvus.io/"
+      },
+      {
+        "text": "Supabase",
+        "url": "https://supabase.com/"
+      },
+      {
+        "text": "Pinecone",
+        "url": "https://www.pinecone.io/"
+      },
+      {
+        "text": "Neon",
+        "url": "https://neon.tech/"
+      },
+      {
+        "text": "Letta",
+        "url": "https://github.com/letta-ai/letta"
+      },
+      {
+        "text": "Zep",
+        "url": "https://github.com/getzep/zep"
+      },
+      {
+        "text": "LangChain Memory",
+        "url": "https://github.com/langchain-ai/langchain"
+      },
+      {
+        "text": "Mem0",
+        "url": "https://github.com/mem0ai/mem0"
+      },
+      {
+        "text": "Cognee",
+        "url": "https://github.com/topoteretes/cognee"
+      },
+      {
+        "text": "Composio",
+        "url": "https://github.com/ComposioHQ/composio"
+      },
+      {
+        "text": "NPi",
+        "url": "https://github.com/npi-ai/npi"
+      },
+      {
+        "text": "Exa",
+        "url": "https://exa.ai/"
+      },
+      {
+        "text": "Linkup",
+        "url": "https://www.linkup.so/"
+      },
+      {
+        "text": "Browserbase",
+        "url": "https://browserbase.com/"
+      },
+      {
+        "text": "Letta",
+        "url": "https://github.com/letta-ai/letta"
+      },
+      {
+        "text": "LangGraph",
+        "url": "https://github.com/langchain-ai/langgraph"
+      },
+      {
+        "text": "AutoGen",
+        "url": "https://github.com/microsoft/autogen"
+      },
+      {
+        "text": "LlamaIndex",
+        "url": "https://github.com/run-llama/llamaindex"
+      },
+      {
+        "text": "CrewAI",
+        "url": "https://github.com/joaomdmoura/crewAI"
+      },
+      {
+        "text": "Phidata",
+        "url": "https://github.com/phidatahq/phidata"
+      },
+      {
+        "text": "DSPy",
+        "url": "https://github.com/stanfordnlp/dspy"
+      },
+      {
+        "text": "Semantic Kernel",
+        "url": "https://github.com/microsoft/semantic-kernel"
+      },
+      {
+        "text": "AutoGPT",
+        "url": "https://github.com/Torantulino/Auto-GPT"
+      },
+      {
+        "text": "OpenAI Swarm",
+        "url": "https://github.com/openai/swarm"
+      },
+      {
+        "text": "CAMEL",
+        "url": "https://github.com/camel-ai/camel"
+      },
+      {
+        "text": "E2B",
+        "url": "https://e2b.dev/"
+      },
+      {
+        "text": "Modal",
+        "url": "https://modal.com/"
+      },
+      {
+        "text": "AWS Bedrock",
+        "url": "https://aws.amazon.com/bedrock/"
+      },
+      {
+        "text": "OpenAI Operator",
+        "url": "https://platform.openai.com/"
+      },
+      {
+        "text": "Langfuse",
+        "url": "https://github.com/langfuse/langfuse"
+      },
+      {
+        "text": "Helicone AI",
+        "url": "https://github.com/Helicone/helicone"
+      },
+      {
+        "text": "Weave",
+        "url": "https://github.com/weave-ai/weave"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://www.comet.com/site/products/opik/"
+      },
+      {
+        "text": "Arize AI",
+        "url": "https://arize.com/"
+      },
+      {
+        "text": "Coval AI",
+        "url": "https://coval.ai/"
+      },
+      {
+        "text": "Vocera AI",
+        "url": "https://www.vocera.com/"
+      },
+      {
+        "text": "Foundry AI",
+        "url": "https://foundry.ai/"
+      },
+      {
+        "text": "LangSmith",
+        "url": "https://www.langchain.com/langsmith"
+      }
+    ]
+  },
+  "113 [Grow] A Deep Dive on Agent EvalsMonitoring.html": {
+    "type": "html",
+    "title": "[Grow] A Deep Dive on Agent Evals/Monitoring",
+    "text_len": 6946,
+    "text_sample": "📄\n[Grow] A Deep Dive on Agent Evals/Monitoring\nLesson 11\nObservability and monitoring in agentic pipelines involve tracking and analyzing every step of an agent’s decision-making process to identify bottlenecks, failures, and inefficiencies before they affect production. In previous lessons, we explored different ways to monitor agents. Now, let's solidify that understanding by introducing key\nope",
+    "links": [
+      {
+        "text": "Comet Opik",
+        "url": "https://github.com/comet-ml/opik/tree/main"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://github.com/comet-ml/opik/tree/main"
+      }
+    ]
+  },
+  "114 [Grow] A Deep Dive on Agent Protocols & Best Resources.html": {
+    "type": "html",
+    "title": "[Grow] A Deep Dive on Agent Protocols & Best Resources",
+    "text_len": 826,
+    "text_sample": "📄\n[Grow] A Deep Dive on Agent Protocols & Best Resources\nLesson 12\nWe focused heavily on MCP in the lectures because it's what we’ve seen gain the most traction in real-world enterprise setups. We didn’t spend much time on other protocols to keep things focused and actionable for real-world use, this course is about teaching from experience, not repeating what’s already out there.\nHowever, if you'",
+    "links": [
+      {
+        "text": "AI Engineer Summit 2025 Day 1 session on MCP usage in the Enterprise (Highly recommend this one if you're a builder!)",
+        "url": "https://www.youtube.com/live/z4zXicOAF28?t=9077s"
+      },
+      {
+        "text": "A deep survey on MCP security, including potential threats",
+        "url": "https://arxiv.org/abs/2503.23278"
+      },
+      {
+        "text": "Basics of A2A",
+        "url": "https://github.com/google-a2a/A2A"
+      },
+      {
+        "text": "Video series on building with A2A",
+        "url": "https://www.youtube.com/watch?v=0bgrPco8Wfw&list=PL6tW9BrhiPTCKTXXJAwigi7QDNpA7t4Ip"
+      },
+      {
+        "text": "Survey of AI protocols and what they do",
+        "url": "https://arxiv.org/abs/2504.16736"
+      }
+    ]
+  },
+  "115 [Grow] A 101 Fine-Tuning Guide.html": {
+    "type": "html",
+    "title": "[Grow] A 101 Fine-Tuning Guide",
+    "text_len": 1172,
+    "text_sample": "📄\n[Grow] A 101 Fine-Tuning Guide\nLesson 13\nWe've authored a 101 fine-tuning guide for those of you who want to get started, please check it out here:\nhttps://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/fine_tuning_101.md\nPrevious\nComplete\nComplete this lesson\nNext\n0%\n📹\nLesson 1\n[Core] Types of Agents & AI Protocols\n📄\nLesson 2\n[Core] Planning in Agents (ReAct Prompting)\n📹",
+    "links": [
+      {
+        "text": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/fine_tuning_101.md",
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/fine_tuning_101.md"
+      }
+    ]
+  },
+  "116 [Grow] Data Generation for Fine-Tuning & Synthetic Data.html": {
+    "type": "html",
+    "title": "[Grow] Data Generation for Fine-Tuning & Synthetic Data",
+    "text_len": 12643,
+    "text_sample": "📄\n[Grow] Data Generation for Fine-Tuning & Synthetic Data\nLesson 14\nFine-tuning AI models is all about providing the right data. It is even more crucial to ensure relevance in fine-tuning compared to external methods like RAG or prompt engineering because fine-tuning modifies the model’s internal parameters, directly impacting its behavior.\nAcross research and industry applications, the quality, d",
+    "links": [
+      {
+        "text": "fine-tuning documentation",
+        "url": "https://platform.openai.com/docs/guides/fine-tuning"
+      }
+    ]
+  },
+  "117 [Build] Assignment 2 Solutions 1.mp4": {
+    "type": "mp4",
+    "size_mb": 91.8
+  },
+  "118 [Build] Assignment 2 Solutions 2.mp4": {
+    "type": "mp4",
+    "size_mb": 66.71
+  },
+  "119 [Build] Assignment 2 Solutions.html": {
+    "type": "html",
+    "title": "[Build] Assignment 2 Solutions",
+    "text_len": 1193,
+    "text_sample": "📹\n[Build] Assignment 2 Solutions\nLesson 1\nThe solutions for both variants of the assignment (LangFlow and LangGraph) are provided in Google Drive\nhere\n.\nFor LangFlow, you need to download the\n.json\nfile for each part separately and load them into your LangFlow UI.\nFor LangGraph, we provide the completely filled out part{1,2,3}.py on top of the template provided to you - exactly like we did for ass",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/18nh4lZq8mZbPTburDwne5JUnFYU131By?usp=drive_link"
+      }
+    ]
+  },
+  "120 [Build] Assignment 3 - Using LangGraph.html": {
+    "type": "html",
+    "title": "[Build] Assignment 3 - Using LangGraph",
+    "text_len": 9730,
+    "text_sample": "✍️\n[Build] Assignment 3 - Using LangGraph\nLesson 1\nWelcome back, Perplexia developers! Over the past two weeks, you've built an impressive foundation for your AI search assistant. In Assignment 1, you created a system with smart query understanding, basic tools, and conversation memory. In Assignment 2, you added real-world knowledge through web search and document RAG. Now, it's time to take Perp",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1nLPfsGQnqFNpfhocr1JcAU2g183LxDQV?usp=drive_link"
+      },
+      {
+        "text": "document list",
+        "url": "https://drive.google.com/drive/folders/1h-g9aBIa9FWX6Afe2NCxzVkdusokmJpY?usp=drive_link"
+      },
+      {
+        "text": "https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag",
+        "url": "https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag"
+      }
+    ]
+  },
+  "121 [Build] Assignment 3 - Using LangGraph.mp4": {
+    "type": "mp4",
+    "size_mb": 130.63
+  },
+  "122 [Build] Assignment 3 - Using LangFlow.html": {
+    "type": "html",
+    "title": "[Build] Assignment 3 - Using LangFlow",
+    "text_len": 9096,
+    "text_sample": "✍️\n[Build] Assignment 3 - Using LangFlow\nLesson 2\nWelcome back, Perplexia developers! Over the past two weeks, you've built an impressive foundation for your AI search assistant. In Assignment 1, you created a system with smart query understanding, basic tools, and conversation memory. In Assignment 2, you added real-world knowledge through web search and document RAG. Now, it's time to take Perpl",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=drive_link"
+      },
+      {
+        "text": "document list",
+        "url": "https://drive.google.com/drive/folders/16hR35Y8foD_IMa6rB15k9rMlkDjgMkHp?usp=sharing"
+      }
+    ]
+  },
+  "123 Building Agentic AI Applications with a Problem-First Approach.mp4": {
+    "type": "mp4",
+    "size_mb": 78.56
+  },
+  "124 [Build][Bonus] Using and building MCP.html": {
+    "type": "html",
+    "title": "[Build][Bonus] Using and building MCP",
+    "text_len": 2553,
+    "text_sample": "📄\n[Build][Bonus] Using and building MCP\nLesson 3\nNOTE:\nBefore starting this, we highly recommend watching the lecture content where the concept of MCP and it's origin is covered in much more depth. Also watch the assignment 3 content which describes the concepts of tools and agents. The below content is practical handbook on how you'd use MCP with the frameworks you've learnt.\nMCP in Practice\nNote",
+    "links": [
+      {
+        "text": "Reference on asyncio",
+        "url": "https://realpython.com/async-io-python/"
+      },
+      {
+        "text": "here",
+        "url": "https://github.com/modelcontextprotocol/servers"
+      }
+    ]
+  },
+  "125 [Build][Bonus] Using and building MCP.mp4": {
+    "type": "mp4",
+    "size_mb": 71.18
+  },
+  "126 Stuck Start Here.html": {
+    "type": "html",
+    "title": "Stuck? Start Here",
+    "text_len": 550,
+    "text_sample": "Back\n[Build] Assignment 3: Build your v2 system - Deep Research, Agentic RAG, MCP\n📄\nStuck? Start Here\nLesson 4\n⚠️ For any errors or bugs, please try chatting with our\nNotebookLM instance first\n. It’s loaded with all the assignment info and common issues, and you can paste your errors, ask specific questions, or describe issues.\nPrevious\nComplete\nComplete this lesson\n0%\n✍️\nLesson 1\n[Build] Assignme",
+    "links": [
+      {
+        "text": "NotebookLM instance first",
+        "url": "https://notebooklm.google.com/notebook/fe787c66-afcf-426d-81e7-f67fae9b8e15"
+      }
+    ]
+  },
+  "127 AI Strategy in Action A Leader’s Playbook for Real-World Results [Gabriela de Queiroz].mp4": {
+    "type": "mp4",
+    "size_mb": 415.51
+  },
+  "128 AI Strategy in Action A Leader’s Playbook for Real-World Results [Gabriela de Queiroz].html": {
+    "type": "html",
+    "title": "AI Strategy in Action: A Leader’s Playbook for Real-World Results [Gabriela de Queiroz]",
+    "text_len": 68960,
+    "text_sample": "AI Strategy in Action: A Leader’s Playbook for Real-World Results [Gabriela de Queiroz]\nAug 19, 2025\n6:00 PM - 7:00 PM GMT+2\nAudio Transcript\nChat Messages\nAishwarya Naresh Reganti\n00:01:10\nHey, hi folks.\nAishwarya Naresh Reganti\n00:01:12\nHey, Barbara.\nBarbara Davis\n00:01:14\nHello.\nBarbara Davis\n00:01:16\nHappy… I'm not sure what day it is.\nAishwarya Naresh Reganti\n00:01:18\nTuesday.\nAishwarya Nares",
+    "links": []
+  },
+  "129 Notes from_ AI Strategy in Action_ A Leader’s Playbook for Real-World Results [Gabriela De Queiroz].docx": {
+    "type": "docx",
+    "text_len": 7381,
+    "text_sample": "Notes from: AI Strategy in Action: A Leader’s Playbook for Real-World Results [Gabriela De Queiroz]These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Speaker: Gabriela de Queiroz,Founder of f02 labs Previous Roles: Director of AI at Microsoft for Startups, Chief Data S"
+  },
+  "130 Week 4 Homework Office Hours -  Aug 20.mp4": {
+    "type": "mp4",
+    "size_mb": 262.44
+  },
+  "131 Week 4 Homework Office Hours - August 20.docx": {
+    "type": "docx",
+    "text_len": 5995,
+    "text_sample": "Week 4 Homework Office Hours - August 20These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: Is there any way to control the calling of tools? There doesn't seem to be much troubleshooting for the order or sequence in which it calls the tools. A: Too"
+  },
+  "132 AMA w Rachitt Shah (Applied AI Consultant).mp4": {
+    "type": "mp4",
+    "size_mb": 159.04
+  },
+  "133 AMA w_ Rachitt Shah (Applied AI Consultant) - August 21.docx": {
+    "type": "docx",
+    "text_len": 8681,
+    "text_sample": "AMA w/ Rachitt Shah (Applied AI Consultant) - August 21These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Session ContextThis was a guest lecture for an applied AI course featuring Rachitt Shah, an applied AI consultant and founder of a consulting firm. Rachitt has wor"
+  },
+  "134 Week 4 Content Office Hours - Aug 22.mp4": {
+    "type": "mp4",
+    "size_mb": 184.32
+  },
+  "135 Week 4 Content Office Hours - August 21.docx": {
+    "type": "docx",
+    "text_len": 9153,
+    "text_sample": "Week 4 Content Office Hours - August 21These notes are AI-generated from the video transcripts, so there may be minor errors or things slightly off. Use them as a quick reference, but watch the video for a full deep dive.Part 1: Q&A FormatQ: Can you explain controllability in practice? A: Controllability refers to the balance between autonomy and control in AI systems. Higher controllability means"
+  },
+  "136 Final Lecture (Aish + Kiriti).mp4": {
+    "type": "mp4",
+    "size_mb": 434.57
+  },
+  "137 Final Lecture (Aish + Kiriti) Slides.txt": {
+    "type": "txt",
+    "content": "https://www.canva.com/design/DAGw1VQ2JIo/64l5DYo1eevQNJpZG2_obg/view?utm_content=DAGw1VQ2JIo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1716795c5d"
+  },
+  "138 Week 4 Homework Office Hours - Aug 23.mp4": {
+    "type": "mp4",
+    "size_mb": 352.81
+  },
+  "139 Capstone Brainstorming Workshop - Aug 24.mp4": {
+    "type": "mp4",
+    "size_mb": 201.69
+  },
+  "140 Capstone Overview.html": {
+    "type": "html",
+    "title": "Capstone Overview",
+    "text_len": 3559,
+    "text_sample": "📄\nCapstone Overview\nLesson 1\nCapstone Project: Iterative AI System Design\nIn this capstone project, you’ll design an Agentic AI system using the iterative solution design approach discussed in lectures. Your goal is to develop at least three iterations of your product idea and\noptionally\nimplement one of them using LangGraph or Langflow.\nImplementation is optional but earns your team bonus points ",
+    "links": [
+      {
+        "text": "shared scratchpad",
+        "url": "https://docs.google.com/document/d/1iOZOcJ8ubhHoEzwxkqrZ3fRGbpLozV0INQr5OwwntC8/edit?usp=sharing"
+      },
+      {
+        "text": "presentation template",
+        "url": "https://www.canva.com/design/DAGiHqwmESM/ZjubxupUOPI1FoXXn_DL2w/edit?utm_content=DAGiHqwmESM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      }
+    ]
+  },
+  "141 Getting Started Capstone Guidelines.html": {
+    "type": "html",
+    "title": "Getting Started: Capstone Guidelines",
+    "text_len": 2959,
+    "text_sample": "📄\nGetting Started: Capstone Guidelines\nLesson 2\nCollaboration & Roles\nYour final deliverable is a presentation showcasing your design, iterations, and (optionally) your build. Collaboration is key. Use the shared scratchpad (will be provided as a Google doc) as your workspace.\nDuring the first 5 minutes of brainstorming, decide who takes on which roles—though you’re free to contribute across areas",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://www.datacamp.com/blog/llm-guardrails"
+      }
+    ]
+  },
+  "142 Step 1 Scoping Your Project (ScratchPad).html": {
+    "type": "html",
+    "title": "Step 1: Scoping Your Project (ScratchPad)",
+    "text_len": 1398,
+    "text_sample": "📄\nStep 1: Scoping Your Project (ScratchPad)\nLesson 3\nOne team member can jot down 1-2 lines summarizing the team’s decisions for each question below. Aim to complete this in\n10-15\nminutes.\nWhat real-world problem does your agentic AI system aim to solve?\nWhy is this problem important and relevant today?\nWhy is agentic AI a good fit for this problem?\nWhich models are you considering, and why? It’s ",
+    "links": [
+      {
+        "text": "https://lmarena.ai/",
+        "url": "https://lmarena.ai/"
+      }
+    ]
+  },
+  "143 Step 2 Iterative Solution Design (ScratchPad) & Poster Design.html": {
+    "type": "html",
+    "title": "Step 2: Iterative Solution Design (ScratchPad) & Poster Design",
+    "text_len": 5827,
+    "text_sample": "📄\nStep 2: Iterative Solution Design (ScratchPad) & Poster Design\nLesson 4\nOne team member can jot down 1-2 lines summarizing the team’s decisions for each question below, read guidance for iteration design. Aim to complete this in\n10-15\nminutes.\n0. Iterations\nWhat are the 3 iterations of your problem?\nStart by outlining three iterations. You can refine them later as you work through the following ",
+    "links": [
+      {
+        "text": "https://superlinked.com/vector-db-comparison",
+        "url": "https://superlinked.com/vector-db-comparison"
+      },
+      {
+        "text": "Use this guide for examples",
+        "url": "https://www.datacamp.com/blog/llm-guardrails"
+      }
+    ]
+  },
+  "144 Prompt Optimizations For The Enterprise.html": {
+    "type": "html",
+    "title": "Prompt Optimizations For The Enterprise",
+    "text_len": 8295,
+    "text_sample": "📄\nPrompt Optimizations For The Enterprise\nLesson 5\nSimple optimizations that always work:\nFew-Shot:\nInclude a few examples in your prompt to reliably guide the model. For example, when translating sentences, show two examples before asking for a translation.\nRole-Based Prompts:\nDefine a role to set the context. For example, \"You are a financial analyst. Explain the impact of interest rate changes ",
+    "links": [
+      {
+        "text": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+        "url": "https://arxiv.org/abs/2201.11903"
+      },
+      {
+        "text": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+        "url": "https://arxiv.org/abs/2305.10601"
+      },
+      {
+        "text": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "url": "https://arxiv.org/abs/2210.03629"
+      },
+      {
+        "text": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+        "url": "https://arxiv.org/abs/2205.10625"
+      },
+      {
+        "text": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
+        "url": "https://arxiv.org/abs/2210.02406"
+      },
+      {
+        "text": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+        "url": "https://arxiv.org/abs/2306.00386"
+      },
+      {
+        "text": "Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models",
+        "url": "https://arxiv.org/abs/2307.08709"
+      },
+      {
+        "text": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+        "url": "https://arxiv.org/abs/2203.11171"
+      },
+      {
+        "text": "Active Prompting with Chain-of-Thought for Large Language Models",
+        "url": "https://arxiv.org/abs/2305.15023"
+      }
+    ]
+  },
+  "145 RAG Optimizations For The Enterprise.html": {
+    "type": "html",
+    "title": "RAG Optimizations For The Enterprise",
+    "text_len": 4420,
+    "text_sample": "📄\nRAG Optimizations For The Enterprise\nLesson 6\nThese RAG techniques help improve retrieval accuracy, reduce irrelevant information, and enhance response generation.\n1. Query Expansion\nReference:\nQuery Expansion in LangChain\nKey Concept: Expands the original query by including synonyms or related terms to improve retrieval.\nWhen to Use: Best for customer support chatbots, e-commerce search engines",
+    "links": [
+      {
+        "text": "Query Expansion in LangChain",
+        "url": "https://python.langchain.com/v0.1/docs/use_cases/query_analysis/techniques/expansion/"
+      },
+      {
+        "text": "Hypothetical Document Embeddings for Zero-Shot Dense Passage Retrieval",
+        "url": "https://arxiv.org/abs/2212.10496"
+      },
+      {
+        "text": "https://weaviate.io/blog/hybrid-search-explained",
+        "url": "https://weaviate.io/blog/hybrid-search-explained"
+      },
+      {
+        "text": "https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/",
+        "url": "https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/"
+      },
+      {
+        "text": "Corrective Retrieval-Augmented Generation for Reliable Question Answering",
+        "url": "https://arxiv.org/abs/2310.10716"
+      },
+      {
+        "text": "Fine-tuning LLMs for Multi-Hop Retrieval-Augmented Generation",
+        "url": "https://arxiv.org/abs/2403.10131"
+      },
+      {
+        "text": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md",
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md"
+      }
+    ]
+  },
+  "146 Level 2 Agents Resources For The Enterprise.html": {
+    "type": "html",
+    "title": "Level 2 Agents Resources For The Enterprise",
+    "text_len": 4615,
+    "text_sample": "📄\nLevel 2 Agents Resources For The Enterprise\nLesson 7\nAgentic Memory Methods (Choose which of these memory types might be needed)\nAgentic memory enables AI agents to retain and leverage past interactions, enhancing their ability to adapt, learn, and make better decisions over time. You don’t need to worry too much about the implementation—these memories can be managed through LLM calls or externa",
+    "links": []
+  },
+  "147 Evaluation Metrics.html": {
+    "type": "html",
+    "title": "Evaluation Metrics",
+    "text_len": 15427,
+    "text_sample": "📄\nEvaluation Metrics\nLesson 8\nEnterprise AI Evaluation Metrics: Use Cases and Applications\n1. Response Quality Metrics\n1.1 Exact Match: Word Matching\nDescription: Checks if the generated response exactly matches a reference response.\nRequired Data: Ideal responses, model-generated responses\nWhen to Use: When responses follow strict formats like predefined templates or structured data, such as date",
+    "links": [
+      {
+        "text": "Comet’s heuristic metrics",
+        "url": "https://www.comet.com/docs/opik/evaluation/metrics/heuristic_metrics"
+      },
+      {
+        "text": "Comet’s heuristic metrics",
+        "url": "https://www.comet.com/docs/opik/evaluation/metrics/heuristic_metrics"
+      },
+      {
+        "text": "Comet’s heuristic metrics",
+        "url": "https://www.comet.com/docs/opik/evaluation/metrics/heuristic_metrics"
+      },
+      {
+        "text": "BERTScore",
+        "url": "https://pypi.org/project/bert-score/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      },
+      {
+        "text": "Comet Opik",
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/"
+      }
+    ]
+  },
+  "148 Operational Metrics.html": {
+    "type": "html",
+    "title": "Operational Metrics",
+    "text_len": 2048,
+    "text_sample": "📄\nOperational Metrics\nLesson 9\nOperational Metrics for AI Systems: Measuring Time & Cost Efficiency\nPrompt Workflows:\nToken Usage:\nTracks the total tokens consumed per query to optimize costs.\nLLM API Calls\n: Measures the number of times an LLM is called to complete a task, reducing unnecessary API usage.\nTool Invocation Time\n: Evaluates the time taken when AI calls external tools or APIs, ensurin",
+    "links": []
+  },
+  "149 [Build] Assignment 3 Solutions 1.mp4": {
+    "type": "mp4",
+    "size_mb": 150.37
+  },
+  "150 [Build] Assignment 3 Solutions 2.mp4": {
+    "type": "mp4",
+    "size_mb": 53.04
+  },
+  "151 [Build] Assignment 3 Solutions.html": {
+    "type": "html",
+    "title": "[Build] Assignment 3 Solutions",
+    "text_len": 921,
+    "text_sample": "📄\n[Build] Assignment 3 Solutions\nLesson 1\nAll the solutions for assignment 3 are available in the Google Drive folder\nhere\n.\nLangGraph Solution\nThis is also mentioned in the video below - if you are attempting the MCP bonus section which requires asyncio - it's recommended to upgrade your version of\ngradio\nto enable smooth interoperability between\nsync\nand\nasync\nversions.\nTLDR: Run the following c",
+    "links": [
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=drive_link"
+      },
+      {
+        "text": "here",
+        "url": "https://drive.google.com/drive/folders/1iZsUYjhOV769hH6k5QYxgKAkMGbYgaJu?usp=drive_link"
+      }
+    ]
+  },
+  "Cohort 3 - Students.zip": {
+    "type": "zip",
+    "size_mb": 21.97
+  }
+}

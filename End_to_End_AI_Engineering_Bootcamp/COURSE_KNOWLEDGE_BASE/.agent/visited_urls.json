@@ -1,0 +1,662 @@
+{
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Home",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/inbox": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Inbox",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/people": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "People",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=0b53d3b7-1963-4005-96dd-e6e94f972db9": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "announcements",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=3d902f43-7dae-44fc-8804-7fa3835dfb32": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "general",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=5c48f741-8629-4e4f-862e-f2e656135645": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "intros",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=4d4a403e-6e2b-400a-9ba3-706b937d42dd": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "\ud83d\udcadquestions",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=15de767b-eeff-4253-920f-32474378b665": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Reflect: Goals",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=a31d9dee-1f0e-4702-9d63-39ea79a93569": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Capstone Progress: Setting up you project and integrating a RAG prototype",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=17bfa305-3f65-4af3-9c54-cea095837638": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Reflect: Takeaways",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=c607adc7-6500-49f8-9b67-a2024eb63d6d": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Reflect: Wrap-up",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#be1628": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://github.com/swirl-ai/ai-engineering-bootcamp-prerequisites": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "https://github.com/swirl-ai/ai-engineering-bootcamp-prerequisites",
+    "category": "github_code",
+    "verified": true
+  },
+  "https://github.com/": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "GitHub",
+    "category": "github_code",
+    "verified": true
+  },
+  "https://www.docker.com/products/docker-desktop/": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Docker Desktop for Windows/Mac",
+    "category": "general",
+    "verified": true
+  },
+  "https://docs.docker.com/desktop/linux/install/": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "Docker Desktop for Linux",
+    "category": "documentation",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/be1628?item=t1g0zqymwas": {
+    "first_seen_in": "Setting up your development environment..html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 Setting up your development environment.",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#fa56a7": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=99cea52ad8e593dc": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "Next",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=849d99d2f712893b": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 Understanding the AI product lifecycle",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=02d46067067a0378": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 3 What is RAG?",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=86eca330eadc0738": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 4 Embedding models & vector DB integration",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=c9a234405a055fd0": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 5 Implementing basic observability foundations",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=41d9ff05d0466cb5": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 6 Evaluating basic end-to-end retrieval and generation",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=bd1a2c492f280c21": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 7 Hands-On Section",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=187b34f013538b23": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 8 Amazon Electronics Category Dataset Overview",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=caf1280978cfda02": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 9 [OPTIONAL] AI Project Canvas",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=8566507e009e4088": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\ud83d\udcc4Lesson 10 [OPTIONAL] Success metrics & evaluation frameworks",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=a500b054b8cb9171": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "Jan13Event 1 Sprint Review: Project framing, tooling overview, and repo setup",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=943d98588cb3f2e5": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "Jan15Event 2 Sprint Build Lab: Set up development environment and scaffold project repo",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/fa56a7?item=92b77c677ab619a6": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/001 Understanding the AI product lifecycle.html",
+    "anchor_text": "\u270d\ufe0fProject \u00b7 Submit by SUN. JAN 18Capstone Progress: Setting up you project and integrating a RAG prototype",
+    "category": "general",
+    "verified": true
+  },
+  "https://github.com/langchain-ai/langgraph": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "GitHub",
+    "category": "github_code",
+    "verified": true
+  },
+  "https://google.github.io/adk-docs/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "GitHub",
+    "category": "general",
+    "verified": true
+  },
+  "https://python.useinstructor.com/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "general",
+    "verified": true
+  },
+  "https://qdrant.tech/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "documentation",
+    "verified": true
+  },
+  "https://www.litellm.ai/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "general",
+    "verified": true
+  },
+  "https://github.com/guardrails-ai/guardrails": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "GitHub",
+    "category": "github_code",
+    "verified": true
+  },
+  "https://www.langchain.com/langsmith": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "documentation",
+    "verified": true
+  },
+  "https://streamlit.io/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "general",
+    "verified": true
+  },
+  "https://www.docker.com/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "general",
+    "verified": true
+  },
+  "https://docs.docker.com/compose/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Docs",
+    "category": "documentation",
+    "verified": true
+  },
+  "https://kubernetes.io/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Website",
+    "category": "general",
+    "verified": true
+  },
+  "https://platform.openai.com/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "OpenAI Platform",
+    "category": "industry_guide",
+    "verified": true
+  },
+  "https://ai.google.dev/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Google AI",
+    "category": "general",
+    "verified": true
+  },
+  "https://console.groq.com/": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "Groq Console",
+    "category": "general",
+    "verified": true
+  },
+  "https://www.newsletter.swirlai.com/p/enterprise-agentic-ai-hierarchy-of": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/002 Tooling overview (LangGraph, vector DBs, LLM APIs, etc.).html",
+    "anchor_text": "https://www.newsletter.swirlai.com/p/enterprise-agentic-ai-hierarchy-of",
+    "category": "general",
+    "verified": true
+  },
+  "https://amazon-reviews-2023.github.io/#grouped-by-category": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/008 Amazon Electronics Category Dataset Overview.html",
+    "anchor_text": "here",
+    "category": "general",
+    "verified": true
+  },
+  "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/meta_categories/meta_Electronics.jsonl.gz": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/008 Amazon Electronics Category Dataset Overview.html",
+    "anchor_text": "link",
+    "category": "general",
+    "verified": true
+  },
+  "https://amazon-reviews-2023.github.io/#for-item-metadata": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/008 Amazon Electronics Category Dataset Overview.html",
+    "anchor_text": "here",
+    "category": "general",
+    "verified": true
+  },
+  "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/Electronics.jsonl.gz": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/008 Amazon Electronics Category Dataset Overview.html",
+    "anchor_text": "link",
+    "category": "general",
+    "verified": true
+  },
+  "https://amazon-reviews-2023.github.io/#for-user-reviews": {
+    "first_seen_in": "Sprint 0 \u2013 Problem Framing, Infrastructure Setup & RAG Foundations/008 Amazon Electronics Category Dataset Overview.html",
+    "anchor_text": "here",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=e6a3128a-52d9-4e69-bf9d-4b741d84887c": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "Capstone Progress: Apply hybrid retrieval and re-ranking to your RAG pipeline",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#706140": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=aa76093360aaf5ef": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "Next",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=c586496f01cd39a2": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 RAG Data Ingestion Pipeline",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=9cdb81d0bc2ba70b": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\ud83d\udcc4Lesson 3 Chunking strategies and Contextual embeddings",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=ad955b36fd574e2f": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\ud83d\udcc4Lesson 4 Context Engineering and prompt management",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=9afa7e753e1d328e": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\ud83d\udcc4Lesson 5 Re-Ranking and Hybrid Retrieval for better relevance",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=db40c238b6aab32e": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\ud83d\udcc4Lesson 6 (Optional) Automated prompt tuning",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=955660f8c74c7761": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\ud83d\udcc4Lesson 7 Hands-on Section",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=b0771d78a9a4e123": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "Jan20Event 1 Sprint Review: Retrieval Quality & Context Engineering",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=4317585c64170b72": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "Jan22Event 2 Sprint Build Lab: Improve context retrieval, prompts, and system robustness",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/706140?item=9d4c914ca1fb89d8": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/001 RAG Data Ingestion Pipeline.html",
+    "anchor_text": "\u270d\ufe0fProject \u00b7 Submit by SUN. JAN 25Capstone Progress: Apply hybrid retrieval and re-ranking to your RAG pipeline",
+    "category": "general",
+    "verified": true
+  },
+  "https://arxiv.org/abs/2409.04701v2": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/003 Chunking strategies and Contextual embeddings.html",
+    "anchor_text": "link",
+    "category": "paper",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=5054b0bd-ae17-4b3a-a4f7-09db92a64142": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/007 Hands-on Section.html",
+    "anchor_text": "Capstone Progress: Enabling tool use in your agentic system",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=beff896e-8a2a-4eb4-be38-3af4b1fbe921": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/007 Hands-on Section.html",
+    "anchor_text": "Capstone Progress: Implement agentic RAG logic tailored to your project use cas",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=dc4b071a-93f8-4ffc-81fe-626a20303fc1": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/007 Hands-on Section.html",
+    "anchor_text": "Capstone Progress: Extend your capstone to include agent-to-agent interaction",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=a23d8c27-605c-4b84-8c21-76def96e48ef": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/007 Hands-on Section.html",
+    "anchor_text": "Capstone Progress: Finalize system architecture, implement reliability features",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/channel?channelId=4a7b8688-0c99-468e-91d5-5cb973deff04": {
+    "first_seen_in": "Sprint 1 \u2013 Retrieval Quality & Context Engineering/007 Hands-on Section.html",
+    "anchor_text": "Capstone Progress: Reliability features (Part 2) and Deployment",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#b9bdd9": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=4cbcfca80e09a69b": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "Next",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=585b11b952c27be2": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 Agent architecture and decision loops",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=f4353d0b276a9abd": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "\ud83d\udcc4Lesson 3 Patterns for building Agentic Systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=795ff09bdfd3942d": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "\ud83d\udcc4Lesson 4 Memory in agent systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=e4e72911f83cd96d": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "\ud83d\udcc4Lesson 5 Reflection & Agent evaluation Frameworks",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=ad79b29189ec1764": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "\ud83d\udcc4Lesson 6 Hands-on Section",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=d7e875bd8da176fa": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "Jan27Event 1 Sprint Review: Autonomous Agents",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=e0f5b8bbe4da18a7": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "Jan29Event 2 Sprint Build Lab: Agentic Systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/b9bdd9?item=e68106c2953c4097": {
+    "first_seen_in": "Sprint 2 \u2013 Agents & Agentic Systems/001 Agent architecture and decision loops.html",
+    "anchor_text": "\u270d\ufe0fProject \u00b7 Submit by SUN. FEB 1Capstone Progress: Enabling tool use in your agentic system",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#7c6cf6": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=bf71c7259098f3f2": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "Next",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=8f1b841475550d01": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 Agent integrations with RAG systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=50ce37a860f9a55c": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 3 Human in the loop (HITL)",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=ea0124982f53270b": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 4 Model Context Protocol (MCP)",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=a37ab9efccbc8612": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 5 Hands-on Section",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=032c1cb1c081f1e7": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "Feb3Event 1 Sprint Review: Moving from basic to agentic RAG",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=b1e4202af226ae58": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "Feb5Event 2 Sprint Build Lab: Build a tool-using agent integrated with your RAG backend",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/7c6cf6?item=f467de48caf36f60": {
+    "first_seen_in": "Sprint 3 \u2013 Moving From Basic To Agentic RAG/001 Agent integrations with RAG systems.html",
+    "anchor_text": "\u270d\ufe0fProject \u00b7 Submit by SUN. FEB 15Capstone Progress: Implement agentic RAG logic tailored to your project use cas",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#a2acdf": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=8f6903374adbf632": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "Next",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=0c9dd6b6e88d8907": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 Multi-agent systems and when to use it",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=15ec9f92725c05f1": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "\ud83d\udcc4Lesson 3 Synchronization and memory sharing",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=d464a6a4444f7cd7": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "\ud83d\udcc4Lesson 4 Agent-to-agent communication protocols (A2A)",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=bfcb9beea1f62511": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "\ud83d\udcc4Lesson 5 Hands-on Section",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=4fc1d0da1dc60867": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "Feb17Event 1 Sprint Review: Designing and orchestrating multi-agent systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=0e598ae29bc73103": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "Feb19Event 2 Sprint Build Lab: Implement a multi-agent task flow and run coordination scenarios",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/a2acdf?item=7b81d909c881a9e8": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/01 Multi-agent systems and when to use it.html",
+    "anchor_text": "\u270d\ufe0fProject \u00b7 Submit by SUN. FEB 22Capstone Progress: Extend your capstone to include agent-to-agent interaction",
+    "category": "general",
+    "verified": true
+  },
+  "https://a2a-protocol.org/latest/specification/": {
+    "first_seen_in": "Sprint 4 \u2013 Multi-Agent Systems/04 Agent-to-agent communication protocols (A2A).html",
+    "anchor_text": "here",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/home#07e76c": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "Back",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=158bed0520d57928": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "Next",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=217ea2604aeb0d57": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 1 Deployment architecture patterns for AI Systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=dcd79b2199dc5572": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 3 Securing AI systems",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=712c59284b505cf8": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 4 CI/CD for AI applications",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=3408e5ccabf38851": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "\ud83d\udcc4Lesson 5 Hands-on Section",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=3bf48dc3a3b9cff6": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "Feb24Event 1 Sprint Review: Best practices for cloud deployment, monitoring and performance tuning",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=591f17355c93ab67": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "Feb26Event 2 Sprint Build Lab: Containerise your capstone and implement CI Pipeline",
+    "category": "general",
+    "verified": true
+  },
+  "https://maven.com/swirl-ai/end-to-end-ai-engineering/3/syllabus/modules/07e76c?item=2ca01e900b002498": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/01 Deployment architecture patterns for AI Systems.html",
+    "anchor_text": "\u270d\ufe0fProject \u00b7 Submit by SUN. MAR 1Capstone Progress: Finalize system architecture, implement reliability features",
+    "category": "general",
+    "verified": true
+  },
+  "https://genai.owasp.org/llm-top-10": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/03 Securing AI systems.html",
+    "anchor_text": "https://genai.owasp.org/llm-top-10",
+    "category": "general",
+    "verified": true
+  },
+  "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/03 Securing AI systems.html",
+    "anchor_text": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf",
+    "category": "paper",
+    "verified": true
+  },
+  "https://saif.google/": {
+    "first_seen_in": "Sprint 5 \u2013 Deployment, Optimization and Reliability/03 Securing AI systems.html",
+    "anchor_text": "https://saif.google/",
+    "category": "general",
+    "verified": true
+  }
+}
